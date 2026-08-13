@@ -21,10 +21,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T19:39:49Z",
+            "last_commit": "2026-08-13T19:54:14Z",
             "owner": "oxigraph",
             "repo": "oxigraph",
-            "stars": 1813
+            "stars": 1814
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2019-07-18T23:39:49Z",
             "owner": "eBay",
             "repo": "akutan",
-            "stars": 1652
+            "stars": 1651
           }
         },
         {
@@ -63,7 +63,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-11T12:05:06Z",
+            "last_commit": "2026-08-13T18:28:06Z",
             "owner": "ad-freiburg",
             "repo": "qlever",
             "stars": 880
@@ -434,7 +434,7 @@
                 "last_commit": "2026-08-05T08:49:52Z",
                 "owner": "openlink",
                 "repo": "virtuoso-opensource",
-                "stars": 970
+                "stars": 971
               }
             }
           ]
@@ -582,7 +582,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-08T08:25:57Z",
+            "last_commit": "2026-08-13T19:53:06Z",
             "owner": "vaimee",
             "repo": "SEPA",
             "stars": 33
@@ -866,7 +866,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-11T12:05:06Z",
+            "last_commit": "2026-08-13T18:28:06Z",
             "owner": "ad-freiburg",
             "repo": "qlever",
             "stars": 880
@@ -922,7 +922,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-06T16:03:52Z",
+            "last_commit": "2026-08-13T15:56:03Z",
             "owner": "zazuko",
             "repo": "trifid",
             "stars": 102
@@ -1118,7 +1118,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-08T08:25:57Z",
+            "last_commit": "2026-08-13T19:53:06Z",
             "owner": "vaimee",
             "repo": "SEPA",
             "stars": 33
@@ -1464,7 +1464,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-01-23T12:45:09Z",
+            "last_commit": "2026-08-13T18:49:32Z",
             "owner": "dice-group",
             "repo": "IGUANA",
             "stars": 25
@@ -1478,7 +1478,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-01-23T12:45:09Z",
+            "last_commit": "2026-08-13T18:49:32Z",
             "owner": "dice-group",
             "repo": "IGUANA",
             "stars": 25
@@ -2247,7 +2247,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-11T11:38:58Z",
+            "last_commit": "2026-08-13T16:58:50Z",
             "owner": "kbss-cvut",
             "repo": "jopa",
             "stars": 44
@@ -2470,7 +2470,7 @@
             "last_commit": "2026-07-13T16:00:44Z",
             "owner": "ontop",
             "repo": "ontop",
-            "stars": 909
+            "stars": 910
           }
         },
         {
@@ -2780,7 +2780,7 @@
             "last_commit": "2026-08-08T06:11:17Z",
             "owner": "sparql-generate",
             "repo": "sparql-generate",
-            "stars": 70
+            "stars": 71
           }
         },
         {
@@ -2971,7 +2971,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-12T21:09:06Z",
+            "last_commit": "2026-08-13T16:37:09Z",
             "owner": "NeverBlink-OSS",
             "repo": "linkml-scala",
             "stars": 26
@@ -3055,20 +3055,6 @@
         },
         {
           "node_type": "item",
-          "title": "openllet",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2025-08-04T13:21:31Z",
-            "owner": "Galigator",
-            "repo": "openllet",
-            "stars": 130
-          }
-        },
-        {
-          "node_type": "item",
           "title": "reasonable",
           "description": "OWL 2 Reasoner built on DataFrog",
           "children": [],
@@ -3078,6 +3064,20 @@
             "last_commit": "2026-06-02T17:20:17Z",
             "owner": "gtfierro",
             "repo": "reasonable",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openllet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-08-04T13:21:31Z",
+            "owner": "Galigator",
+            "repo": "openllet",
             "stars": 130
           }
         },
@@ -3839,7 +3839,7 @@
             "last_commit": "2026-08-10T23:11:23Z",
             "owner": "linkeddata",
             "repo": "rdflib.js",
-            "stars": 592
+            "stars": 593
           }
         },
         {
@@ -3962,7 +3962,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-10T11:01:07Z",
+            "last_commit": "2026-08-13T20:11:53Z",
             "owner": "shexjs",
             "repo": "shex.js",
             "stars": 62
@@ -4327,7 +4327,7 @@
             "last_commit": "2026-08-12T15:20:09Z",
             "owner": "RDFLib",
             "repo": "rdflib",
-            "stars": 2490
+            "stars": 2494
           }
         },
         {
@@ -4726,10 +4726,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T19:39:49Z",
+            "last_commit": "2026-08-13T19:54:14Z",
             "owner": "oxigraph",
             "repo": "oxigraph",
-            "stars": 1813
+            "stars": 1814
           }
         },
         {
@@ -4754,7 +4754,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-10T12:56:32Z",
+            "last_commit": "2026-08-13T14:35:55Z",
             "owner": "phillord",
             "repo": "horned-owl",
             "stars": 102
@@ -4827,7 +4827,7 @@
             "last_commit": "2023-07-12T13:30:40Z",
             "owner": "field33",
             "repo": "owlish",
-            "stars": 22
+            "stars": 23
           }
         },
         {
@@ -4855,7 +4855,7 @@
             "last_commit": "2023-07-04T15:17:59Z",
             "owner": "field33",
             "repo": "harriet",
-            "stars": 11
+            "stars": 12
           }
         }
       ],
@@ -5300,7 +5300,7 @@
             "last_commit": "2022-12-11T03:34:47Z",
             "owner": "metaphacts",
             "repo": "ontodia",
-            "stars": 177
+            "stars": 176
           }
         },
         {
@@ -5505,10 +5505,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T03:38:32Z",
+            "last_commit": "2026-08-13T22:05:43Z",
             "owner": "weaviate",
             "repo": "weaviate",
-            "stars": 16725
+            "stars": 16728
           }
         },
         {
@@ -5727,7 +5727,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T14:32:22Z",
+            "last_commit": "2026-08-13T16:33:55Z",
             "owner": "comunica",
             "repo": "comunica",
             "stars": 577
@@ -5957,7 +5957,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T18:58:02Z",
+            "last_commit": "2026-08-13T21:12:31Z",
             "owner": "common-workflow-language",
             "repo": "schema_salad",
             "stars": 86
@@ -6384,7 +6384,7 @@
             "last_commit": "2026-06-22T22:27:05Z",
             "owner": "monarch-initiative",
             "repo": "ontogpt",
-            "stars": 972
+            "stars": 971
           }
         },
         {
@@ -6898,7 +6898,7 @@
             "last_commit": "2026-08-09T09:42:01Z",
             "owner": "OnroerendErfgoed",
             "repo": "atramhasis",
-            "stars": 63
+            "stars": 64
           }
         },
         {
@@ -6960,7 +6960,7 @@
             "last_commit": "2026-02-28T05:57:39Z",
             "owner": "totogo",
             "repo": "awesome-knowledge-graph",
-            "stars": 1880
+            "stars": 1879
           }
         },
         {
@@ -6974,7 +6974,7 @@
             "last_commit": "2022-10-07T16:30:33Z",
             "owner": "shaoxiongji",
             "repo": "knowledge-graphs",
-            "stars": 1793
+            "stars": 1792
           }
         },
         {
@@ -7030,7 +7030,7 @@
             "last_commit": "2026-06-07T13:42:59Z",
             "owner": "ozekik",
             "repo": "awesome-ontology",
-            "stars": 664
+            "stars": 665
           }
         },
         {
@@ -7128,7 +7128,7 @@
             "last_commit": "2022-12-11T03:34:47Z",
             "owner": "metaphacts",
             "repo": "ontodia",
-            "stars": 177
+            "stars": 176
           }
         },
         {
@@ -7251,7 +7251,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-07-17T09:13:12Z",
+            "last_commit": "2026-08-13T14:13:25Z",
             "owner": "rubensworks",
             "repo": "jsonld-streaming-parser.js",
             "stars": 92
@@ -7357,20 +7357,6 @@
         },
         {
           "node_type": "item",
-          "title": "nichtich/wdg",
-          "description": "Command line interface to Wikidata Query Service.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2024-04-10T11:03:31Z",
-            "owner": "nichtich",
-            "repo": "wdq",
-            "stars": 56
-          }
-        },
-        {
-          "node_type": "item",
           "title": "yarrrml-parser",
           "description": "A YARRRML parser library and CLI in Javascript.",
           "children": [],
@@ -7380,6 +7366,20 @@
             "last_commit": "2026-06-12T11:44:12Z",
             "owner": "RMLio",
             "repo": "yarrrml-parser",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nichtich/wdg",
+          "description": "Command line interface to Wikidata Query Service.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2024-04-10T11:03:31Z",
+            "owner": "nichtich",
+            "repo": "wdq",
             "stars": 56
           }
         },
@@ -7545,7 +7545,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-08T08:25:57Z",
+            "last_commit": "2026-08-13T19:53:06Z",
             "owner": "vaimee",
             "repo": "SEPA",
             "stars": 33
@@ -7559,7 +7559,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-08T08:25:57Z",
+            "last_commit": "2026-08-13T19:53:06Z",
             "owner": "vaimee",
             "repo": "SEPA",
             "stars": 33
@@ -7573,7 +7573,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T17:35:00Z",
+            "last_commit": "2026-08-13T16:36:56Z",
             "owner": "Nanopublication",
             "repo": "nanopub-java",
             "stars": 33
@@ -7587,7 +7587,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-08T08:25:57Z",
+            "last_commit": "2026-08-13T19:53:06Z",
             "owner": "vaimee",
             "repo": "SEPA",
             "stars": 33
@@ -8730,7 +8730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:32:36.673Z",
+    "last_updated": "2026-08-13T22:06:57.039Z",
     "original_repository": "semantalytics/awesome-semantic-web",
     "original_repository_sha": "37c761290934f8309ac78a88cd4e6b2bedbbfba1",
     "enhanced_repository": "enhansome/enhansome-semantic-web",
