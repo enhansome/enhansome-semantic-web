@@ -21,10 +21,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T18:58:14Z",
+            "last_commit": "2026-08-17T17:03:41Z",
             "owner": "oxigraph",
             "repo": "oxigraph",
-            "stars": 1822
+            "stars": 1823
           }
         },
         {
@@ -63,10 +63,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T21:11:27Z",
+            "last_commit": "2026-08-17T18:04:05Z",
             "owner": "ad-freiburg",
             "repo": "qlever",
-            "stars": 880
+            "stars": 882
           }
         },
         {
@@ -105,10 +105,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-04-30T18:22:28Z",
+            "last_commit": "2026-08-17T21:02:07Z",
             "owner": "MillenniumDB",
             "repo": "MillenniumDB",
-            "stars": 262
+            "stars": 263
           }
         },
         {
@@ -217,7 +217,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T19:03:00Z",
+            "last_commit": "2026-08-17T16:07:47Z",
             "owner": "raytheonbbn",
             "repo": "parliament",
             "stars": 66
@@ -459,7 +459,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T17:55:32Z",
+            "last_commit": "2026-08-17T13:58:57Z",
             "owner": "hyrise",
             "repo": "hyrise",
             "stars": 870
@@ -734,7 +734,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T13:40:27Z",
+            "last_commit": "2026-08-17T09:34:52Z",
             "owner": "LiUSemWeb",
             "repo": "HeFQUIN",
             "stars": 35
@@ -866,10 +866,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T21:11:27Z",
+            "last_commit": "2026-08-17T18:04:05Z",
             "owner": "ad-freiburg",
             "repo": "qlever",
-            "stars": 880
+            "stars": 882
           }
         },
         {
@@ -922,7 +922,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T08:02:28Z",
+            "last_commit": "2026-08-17T13:13:13Z",
             "owner": "zazuko",
             "repo": "trifid",
             "stars": 102
@@ -1650,7 +1650,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-07T09:56:06Z",
+            "last_commit": "2026-08-17T09:55:19Z",
             "owner": "LDflex",
             "repo": "LDflex",
             "stars": 196
@@ -1664,7 +1664,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T13:40:27Z",
+            "last_commit": "2026-08-17T09:34:52Z",
             "owner": "LiUSemWeb",
             "repo": "HeFQUIN",
             "stars": 35
@@ -2470,7 +2470,7 @@
             "last_commit": "2026-07-13T16:00:44Z",
             "owner": "ontop",
             "repo": "ontop",
-            "stars": 913
+            "stars": 914
           }
         },
         {
@@ -2763,7 +2763,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-16T02:59:32Z",
+            "last_commit": "2026-08-17T02:59:19Z",
             "owner": "SPARQL-Anything",
             "repo": "sparql.anything",
             "stars": 305
@@ -2929,10 +2929,10 @@
           "repo_info": {
             "archived": false,
             "language": "Dockerfile",
-            "last_commit": "2026-08-10T14:18:01Z",
+            "last_commit": "2026-08-17T13:38:19Z",
             "owner": "INCATools",
             "repo": "ontology-development-kit",
-            "stars": 358
+            "stars": 359
           }
         },
         {
@@ -2971,10 +2971,10 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-16T21:16:58Z",
+            "last_commit": "2026-08-17T14:24:08Z",
             "owner": "NeverBlink-OSS",
             "repo": "linkml-scala",
-            "stars": 26
+            "stars": 32
           }
         },
         {
@@ -3092,7 +3092,7 @@
             "last_commit": "2026-06-13T16:14:55Z",
             "owner": "liveontologies",
             "repo": "elk-reasoner",
-            "stars": 122
+            "stars": 123
           }
         },
         {
@@ -3257,7 +3257,7 @@
             "last_commit": "2026-07-15T02:13:22Z",
             "owner": "drobilla",
             "repo": "serd",
-            "stars": 98
+            "stars": 99
           }
         },
         {
@@ -3299,7 +3299,7 @@
             "last_commit": "2026-07-04T01:59:10Z",
             "owner": "drobilla",
             "repo": "sord",
-            "stars": 18
+            "stars": 19
           }
         }
       ],
@@ -3822,7 +3822,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-10T03:04:24Z",
+            "last_commit": "2026-08-17T03:04:42Z",
             "owner": "rdfjs",
             "repo": "N3.js",
             "stars": 793
@@ -3962,7 +3962,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T03:41:05Z",
+            "last_commit": "2026-08-17T18:16:53Z",
             "owner": "shexjs",
             "repo": "shex.js",
             "stars": 62
@@ -4324,10 +4324,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T09:50:05Z",
+            "last_commit": "2026-08-17T18:34:01Z",
             "owner": "RDFLib",
             "repo": "rdflib",
-            "stars": 2495
+            "stars": 2496
           }
         },
         {
@@ -4520,7 +4520,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-01T08:45:14Z",
+            "last_commit": "2026-08-17T10:10:23Z",
             "owner": "Jelly-RDF",
             "repo": "pyjelly",
             "stars": 19
@@ -4562,7 +4562,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T01:37:13Z",
+            "last_commit": "2026-08-17T21:37:24Z",
             "owner": "mloda-ai",
             "repo": "open-kgo",
             "stars": 11
@@ -4740,10 +4740,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T18:58:14Z",
+            "last_commit": "2026-08-17T17:03:41Z",
             "owner": "oxigraph",
             "repo": "oxigraph",
-            "stars": 1822
+            "stars": 1823
           }
         },
         {
@@ -5263,7 +5263,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-03T06:18:45Z",
+            "last_commit": "2026-08-17T14:55:09Z",
             "owner": "KonradHoeffner",
             "repo": "rickview",
             "stars": 36
@@ -5519,10 +5519,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T21:03:32Z",
+            "last_commit": "2026-08-17T21:40:25Z",
             "owner": "weaviate",
             "repo": "weaviate",
-            "stars": 16732
+            "stars": 16734
           }
         },
         {
@@ -5741,7 +5741,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T18:14:15Z",
+            "last_commit": "2026-08-17T12:47:53Z",
             "owner": "comunica",
             "repo": "comunica",
             "stars": 577
@@ -5862,7 +5862,7 @@
             "last_commit": "2026-08-08T18:46:25Z",
             "owner": "dgarijo",
             "repo": "Widoco",
-            "stars": 394
+            "stars": 395
           }
         },
         {
@@ -5887,10 +5887,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T03:22:46Z",
+            "last_commit": "2026-08-17T02:15:35Z",
             "owner": "RDFLib",
             "repo": "pyLODE",
-            "stars": 227
+            "stars": 226
           }
         },
         {
@@ -5971,7 +5971,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T18:17:05Z",
+            "last_commit": "2026-08-17T13:30:55Z",
             "owner": "common-workflow-language",
             "repo": "schema_salad",
             "stars": 86
@@ -6974,7 +6974,7 @@
             "last_commit": "2026-02-28T05:57:39Z",
             "owner": "totogo",
             "repo": "awesome-knowledge-graph",
-            "stars": 1880
+            "stars": 1881
           }
         },
         {
@@ -7044,7 +7044,7 @@
             "last_commit": "2026-06-07T13:42:59Z",
             "owner": "ozekik",
             "repo": "awesome-ontology",
-            "stars": 665
+            "stars": 668
           }
         },
         {
@@ -8744,7 +8744,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T21:38:48.042Z",
+    "last_updated": "2026-08-17T21:44:36.018Z",
     "original_repository": "semantalytics/awesome-semantic-web",
     "original_repository_sha": "681e4b094a8340ce56ea634595b1b91b0e052b36",
     "enhanced_repository": "enhansome/enhansome-semantic-web",
