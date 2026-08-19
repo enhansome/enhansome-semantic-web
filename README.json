@@ -15,7 +15,7 @@
             "last_commit": "2026-08-18T14:04:25Z",
             "owner": "oxigraph",
             "repo": "oxigraph",
-            "stars": 1824
+            "stars": 1825
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 27594187,
             "language": "C++",
-            "last_commit": "2026-08-18T23:10:12Z",
+            "last_commit": "2026-08-19T17:19:04Z",
             "owner": "ad-freiburg",
             "repo": "qlever",
             "stars": 884
@@ -753,7 +753,7 @@
                 "archived": false,
                 "id": 344523716,
                 "language": "Java",
-                "last_commit": "2026-08-19T12:43:00Z",
+                "last_commit": "2026-08-19T14:42:44Z",
                 "owner": "LiUSemWeb",
                 "repo": "HeFQUIN",
                 "stars": 35
@@ -895,7 +895,7 @@
                 "archived": false,
                 "id": 27594187,
                 "language": "C++",
-                "last_commit": "2026-08-18T23:10:12Z",
+                "last_commit": "2026-08-19T17:19:04Z",
                 "owner": "ad-freiburg",
                 "repo": "qlever",
                 "stars": 884
@@ -1728,7 +1728,7 @@
             "archived": false,
             "id": 344523716,
             "language": "Java",
-            "last_commit": "2026-08-19T12:43:00Z",
+            "last_commit": "2026-08-19T14:42:44Z",
             "owner": "LiUSemWeb",
             "repo": "HeFQUIN",
             "stars": 35
@@ -2531,7 +2531,7 @@
                 "archived": false,
                 "id": 30449481,
                 "language": "Java",
-                "last_commit": "2026-08-18T17:38:50Z",
+                "last_commit": "2026-08-19T21:13:29Z",
                 "owner": "apache",
                 "repo": "tinkerpop",
                 "stars": 2143
@@ -3100,10 +3100,10 @@
             "archived": false,
             "id": 1278501769,
             "language": "Scala",
-            "last_commit": "2026-08-18T07:29:37Z",
+            "last_commit": "2026-08-19T19:49:00Z",
             "owner": "NeverBlink-OSS",
             "repo": "linkml-scala",
-            "stars": 37
+            "stars": 38
           }
         },
         {
@@ -3723,7 +3723,7 @@
                 "last_commit": "2026-06-23T15:18:57Z",
                 "owner": "dpb587",
                 "repo": "rdfkit-go",
-                "stars": 6
+                "stars": 7
               }
             },
             {
@@ -4029,7 +4029,7 @@
                 "last_commit": "2026-08-19T06:03:54Z",
                 "owner": "rdfjs",
                 "repo": "N3.js",
-                "stars": 793
+                "stars": 794
               }
             },
             {
@@ -4176,7 +4176,7 @@
                 "archived": false,
                 "id": 40290521,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T12:07:37Z",
+                "last_commit": "2026-08-19T17:25:58Z",
                 "owner": "shexjs",
                 "repo": "shex.js",
                 "stars": 62
@@ -5001,7 +5001,7 @@
                 "last_commit": "2026-08-18T14:04:25Z",
                 "owner": "oxigraph",
                 "repo": "oxigraph",
-                "stars": 1824
+                "stars": 1825
               }
             },
             {
@@ -5377,7 +5377,7 @@
                 "archived": false,
                 "id": 766563713,
                 "language": "Emacs Lisp",
-                "last_commit": "2026-08-18T20:09:02Z",
+                "last_commit": "2026-08-19T18:26:49Z",
                 "owner": "johanwk",
                 "repo": "elot",
                 "stars": 31
@@ -5839,7 +5839,7 @@
             "archived": false,
             "id": 55072677,
             "language": "Go",
-            "last_commit": "2026-08-19T12:45:10Z",
+            "last_commit": "2026-08-19T20:35:38Z",
             "owner": "weaviate",
             "repo": "weaviate",
             "stars": 16740
@@ -7804,7 +7804,7 @@
             "archived": false,
             "id": 4590297,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T22:11:14Z",
+            "last_commit": "2026-08-19T14:48:05Z",
             "owner": "stardog-union",
             "repo": "stardog.js",
             "stars": 84
@@ -8089,7 +8089,7 @@
             "archived": false,
             "id": 9291271,
             "language": "Java",
-            "last_commit": "2026-08-18T10:06:27Z",
+            "last_commit": "2026-08-19T18:15:44Z",
             "owner": "Nanopublication",
             "repo": "nanopub-java",
             "stars": 33
@@ -9285,7 +9285,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:50:10.313Z",
+    "last_updated": "2026-08-19T21:44:58.396Z",
     "original_repository": "semantalytics/awesome-semantic-web",
     "original_repository_id": 71265967,
     "original_repository_sha": "681e4b094a8340ce56ea634595b1b91b0e052b36",
