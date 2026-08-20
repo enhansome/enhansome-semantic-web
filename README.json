@@ -57,7 +57,7 @@
             "archived": false,
             "id": 27594187,
             "language": "C++",
-            "last_commit": "2026-08-19T17:19:04Z",
+            "last_commit": "2026-08-20T08:50:19Z",
             "owner": "ad-freiburg",
             "repo": "qlever",
             "stars": 884
@@ -222,7 +222,7 @@
             "archived": false,
             "id": 117755974,
             "language": "Java",
-            "last_commit": "2026-08-17T16:07:47Z",
+            "last_commit": "2026-08-19T22:13:46Z",
             "owner": "raytheonbbn",
             "repo": "parliament",
             "stars": 66
@@ -463,7 +463,7 @@
                 "archived": false,
                 "id": 87414843,
                 "language": "C++",
-                "last_commit": "2026-08-19T08:21:09Z",
+                "last_commit": "2026-08-20T16:05:08Z",
                 "owner": "hyrise",
                 "repo": "hyrise",
                 "stars": 870
@@ -753,7 +753,7 @@
                 "archived": false,
                 "id": 344523716,
                 "language": "Java",
-                "last_commit": "2026-08-19T14:42:44Z",
+                "last_commit": "2026-08-20T17:06:46Z",
                 "owner": "LiUSemWeb",
                 "repo": "HeFQUIN",
                 "stars": 35
@@ -895,7 +895,7 @@
                 "archived": false,
                 "id": 27594187,
                 "language": "C++",
-                "last_commit": "2026-08-19T17:19:04Z",
+                "last_commit": "2026-08-20T08:50:19Z",
                 "owner": "ad-freiburg",
                 "repo": "qlever",
                 "stars": 884
@@ -1728,7 +1728,7 @@
             "archived": false,
             "id": 344523716,
             "language": "Java",
-            "last_commit": "2026-08-19T14:42:44Z",
+            "last_commit": "2026-08-20T17:06:46Z",
             "owner": "LiUSemWeb",
             "repo": "HeFQUIN",
             "stars": 35
@@ -2531,7 +2531,7 @@
                 "archived": false,
                 "id": 30449481,
                 "language": "Java",
-                "last_commit": "2026-08-19T21:13:29Z",
+                "last_commit": "2026-08-20T18:29:34Z",
                 "owner": "apache",
                 "repo": "tinkerpop",
                 "stars": 2143
@@ -2573,7 +2573,7 @@
                     "last_commit": "2026-07-13T16:00:44Z",
                     "owner": "ontop",
                     "repo": "ontop",
-                    "stars": 917
+                    "stars": 920
                   }
                 },
                 {
@@ -2812,7 +2812,7 @@
                     "last_commit": "2026-07-31T13:40:18Z",
                     "owner": "SDM-TIB",
                     "repo": "SDM-RDFizer",
-                    "stars": 138
+                    "stars": 139
                   }
                 },
                 {
@@ -2876,7 +2876,7 @@
                     "archived": false,
                     "id": 303967701,
                     "language": "Java",
-                    "last_commit": "2026-08-19T02:56:54Z",
+                    "last_commit": "2026-08-20T02:56:29Z",
                     "owner": "SPARQL-Anything",
                     "repo": "sparql.anything",
                     "stars": 305
@@ -3073,7 +3073,7 @@
             "last_commit": "2026-08-17T13:38:19Z",
             "owner": "INCATools",
             "repo": "ontology-development-kit",
-            "stars": 359
+            "stars": 360
           }
         },
         {
@@ -3100,7 +3100,7 @@
             "archived": false,
             "id": 1278501769,
             "language": "Scala",
-            "last_commit": "2026-08-19T19:49:00Z",
+            "last_commit": "2026-08-20T21:17:34Z",
             "owner": "NeverBlink-OSS",
             "repo": "linkml-scala",
             "stars": 38
@@ -3169,7 +3169,7 @@
             "last_commit": "2017-01-05T05:57:06Z",
             "owner": "stardog-union",
             "repo": "pellet",
-            "stars": 352
+            "stars": 353
           }
         },
         {
@@ -3484,7 +3484,7 @@
                 "last_commit": "2026-08-16T16:32:05Z",
                 "owner": "dotnetrdf",
                 "repo": "dotnetrdf",
-                "stars": 329
+                "stars": 328
               }
             },
             {
@@ -4074,7 +4074,7 @@
                 "last_commit": "2026-02-17T16:21:10Z",
                 "owner": "RubenVerborgh",
                 "repo": "SPARQL.js",
-                "stars": 368
+                "stars": 364
               }
             },
             {
@@ -4774,7 +4774,7 @@
                 "archived": false,
                 "id": 946682384,
                 "language": "Python",
-                "last_commit": "2026-08-17T10:10:23Z",
+                "last_commit": "2026-08-20T13:13:50Z",
                 "owner": "Jelly-RDF",
                 "repo": "pyjelly",
                 "stars": 19
@@ -5013,7 +5013,7 @@
                 "archived": false,
                 "id": 156105590,
                 "language": "Rust",
-                "last_commit": "2026-05-20T06:40:02Z",
+                "last_commit": "2026-08-20T10:58:16Z",
                 "owner": "pchampin",
                 "repo": "sophia_rs",
                 "stars": 327
@@ -5839,10 +5839,10 @@
             "archived": false,
             "id": 55072677,
             "language": "Go",
-            "last_commit": "2026-08-19T20:35:38Z",
+            "last_commit": "2026-08-20T21:44:00Z",
             "owner": "weaviate",
             "repo": "weaviate",
-            "stars": 16740
+            "stars": 16743
           }
         },
         {
@@ -6076,7 +6076,7 @@
             "archived": false,
             "id": 107345960,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T12:47:53Z",
+            "last_commit": "2026-08-20T16:01:47Z",
             "owner": "comunica",
             "repo": "comunica",
             "stars": 577
@@ -6322,7 +6322,7 @@
             "archived": false,
             "id": 40975824,
             "language": "Python",
-            "last_commit": "2026-08-19T11:27:48Z",
+            "last_commit": "2026-08-20T06:48:00Z",
             "owner": "common-workflow-language",
             "repo": "schema_salad",
             "stars": 86
@@ -6607,7 +6607,7 @@
             "archived": false,
             "id": 845553881,
             "language": "Rust",
-            "last_commit": "2026-08-12T03:36:32Z",
+            "last_commit": "2026-08-20T19:56:40Z",
             "owner": "IoannisNezis",
             "repo": "Qlue-ls",
             "stars": 47
@@ -6817,7 +6817,7 @@
             "last_commit": "2026-06-22T22:27:05Z",
             "owner": "monarch-initiative",
             "repo": "ontogpt",
-            "stars": 973
+            "stars": 974
           }
         },
         {
@@ -7189,7 +7189,7 @@
             "last_commit": "2021-12-02T13:41:58Z",
             "owner": "solid",
             "repo": "solid-spec",
-            "stars": 1139
+            "stars": 1137
           }
         },
         {
@@ -7447,7 +7447,7 @@
             "last_commit": "2022-10-07T16:30:33Z",
             "owner": "shaoxiongji",
             "repo": "knowledge-graphs",
-            "stars": 1790
+            "stars": 1791
           }
         },
         {
@@ -7462,7 +7462,7 @@
             "last_commit": "2026-02-26T11:03:59Z",
             "owner": "jbmusso",
             "repo": "awesome-graph",
-            "stars": 1267
+            "stars": 1268
           }
         },
         {
@@ -7477,7 +7477,7 @@
             "last_commit": "2026-05-03T20:56:31Z",
             "owner": "forgefed",
             "repo": "forgefed",
-            "stars": 1039
+            "stars": 1037
           }
         },
         {
@@ -7507,7 +7507,7 @@
             "last_commit": "2026-06-07T13:42:59Z",
             "owner": "ozekik",
             "repo": "awesome-ontology",
-            "stars": 669
+            "stars": 672
           }
         },
         {
@@ -7567,7 +7567,7 @@
             "last_commit": "2020-08-04T15:36:34Z",
             "owner": "KBpedia",
             "repo": "kbpedia",
-            "stars": 237
+            "stars": 238
           }
         },
         {
@@ -7762,7 +7762,7 @@
             "last_commit": "2026-03-26T04:04:26Z",
             "owner": "ncbo",
             "repo": "umls2rdf",
-            "stars": 88
+            "stars": 87
           }
         },
         {
@@ -8089,7 +8089,7 @@
             "archived": false,
             "id": 9291271,
             "language": "Java",
-            "last_commit": "2026-08-19T18:15:44Z",
+            "last_commit": "2026-08-20T07:54:43Z",
             "owner": "Nanopublication",
             "repo": "nanopub-java",
             "stars": 33
@@ -9285,7 +9285,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T21:44:58.396Z",
+    "last_updated": "2026-08-20T21:48:12.221Z",
     "original_repository": "semantalytics/awesome-semantic-web",
     "original_repository_id": 71265967,
     "original_repository_sha": "681e4b094a8340ce56ea634595b1b91b0e052b36",
