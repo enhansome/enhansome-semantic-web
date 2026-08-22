@@ -12,10 +12,10 @@
             "archived": false,
             "id": 133687025,
             "language": "Rust",
-            "last_commit": "2026-08-18T14:04:25Z",
+            "last_commit": "2026-08-22T19:12:42Z",
             "owner": "oxigraph",
             "repo": "oxigraph",
-            "stars": 1828
+            "stars": 1832
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 27594187,
             "language": "C++",
-            "last_commit": "2026-08-20T08:50:19Z",
+            "last_commit": "2026-08-22T14:33:05Z",
             "owner": "ad-freiburg",
             "repo": "qlever",
             "stars": 884
@@ -155,21 +155,6 @@
         },
         {
           "node_type": "item",
-          "title": "Halyard",
-          "description": "(OS).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 74616657,
-            "language": "Java",
-            "last_commit": "2023-01-23T16:59:32Z",
-            "owner": "Merck",
-            "repo": "Halyard",
-            "stars": 114
-          }
-        },
-        {
-          "node_type": "item",
           "title": "QuitStore",
           "description": "Quads in Git - Git versioned RDF Triple Store with support for branching and mergin and more.",
           "children": [],
@@ -180,6 +165,21 @@
             "last_commit": "2024-06-27T14:57:16Z",
             "owner": "AKSW",
             "repo": "QuitStore",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Halyard",
+          "description": "(OS).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 74616657,
+            "language": "Java",
+            "last_commit": "2023-01-23T16:59:32Z",
+            "owner": "Merck",
+            "repo": "Halyard",
             "stars": 114
           }
         },
@@ -240,7 +240,7 @@
             "last_commit": "2021-07-29T23:03:10Z",
             "owner": "njh",
             "repo": "redstore",
-            "stars": 64
+            "stars": 65
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2026-08-18T23:27:06Z",
             "owner": "kasei",
             "repo": "kineo",
-            "stars": 39
+            "stars": 40
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2024-03-26T05:49:17Z",
             "owner": "Remixman",
             "repo": "Vedas",
-            "stars": 8
+            "stars": 9
           }
         },
         {
@@ -463,7 +463,7 @@
                 "archived": false,
                 "id": 87414843,
                 "language": "C++",
-                "last_commit": "2026-08-21T20:56:39Z",
+                "last_commit": "2026-08-22T20:55:45Z",
                 "owner": "hyrise",
                 "repo": "hyrise",
                 "stars": 870
@@ -753,7 +753,7 @@
                 "archived": false,
                 "id": 344523716,
                 "language": "Java",
-                "last_commit": "2026-08-21T16:08:14Z",
+                "last_commit": "2026-08-22T15:48:09Z",
                 "owner": "LiUSemWeb",
                 "repo": "HeFQUIN",
                 "stars": 35
@@ -895,7 +895,7 @@
                 "archived": false,
                 "id": 27594187,
                 "language": "C++",
-                "last_commit": "2026-08-20T08:50:19Z",
+                "last_commit": "2026-08-22T14:33:05Z",
                 "owner": "ad-freiburg",
                 "repo": "qlever",
                 "stars": 884
@@ -1048,7 +1048,7 @@
                 "last_commit": "2025-08-09T09:24:24Z",
                 "owner": "sebferre",
                 "repo": "sparklis",
-                "stars": 50
+                "stars": 51
               }
             },
             {
@@ -1063,7 +1063,7 @@
                 "last_commit": "2023-01-16T13:38:09Z",
                 "owner": "cmungall",
                 "repo": "sparqlprog",
-                "stars": 49
+                "stars": 50
               }
             },
             {
@@ -1108,7 +1108,7 @@
                 "last_commit": "2016-03-09T14:13:30Z",
                 "owner": "AKSW",
                 "repo": "SPARQL2NL",
-                "stars": 44
+                "stars": 45
               }
             },
             {
@@ -1243,7 +1243,7 @@
                 "last_commit": "2023-09-18T20:24:00Z",
                 "owner": "agnos-ai",
                 "repo": "reactive-sparql",
-                "stars": 13
+                "stars": 14
               }
             },
             {
@@ -1293,6 +1293,21 @@
             },
             {
               "node_type": "item",
+              "title": "visu",
+              "description": "Visual SPARQL query tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21919970,
+                "language": "LiveScript",
+                "last_commit": "2016-02-26T20:32:30Z",
+                "owner": "jiemakel",
+                "repo": "visu",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
               "title": "antlr-sparql-grammar",
               "description": null,
               "children": [],
@@ -1308,17 +1323,17 @@
             },
             {
               "node_type": "item",
-              "title": "visu",
-              "description": "Visual SPARQL query tool.",
+              "title": "SPARQL2Git",
+              "description": "Easily store and curate SPARQL queries (and their associated Linked Data APIs) in GitHub.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "id": 21919970,
-                "language": "LiveScript",
-                "last_commit": "2016-02-26T20:32:30Z",
-                "owner": "jiemakel",
-                "repo": "visu",
-                "stars": 10
+                "id": 82817358,
+                "language": "HTML",
+                "last_commit": "2017-03-16T11:17:57Z",
+                "owner": "albertmeronyo",
+                "repo": "SPARQL2Git",
+                "stars": 7
               }
             },
             {
@@ -1334,21 +1349,6 @@
                 "owner": "protegeproject",
                 "repo": "snap-sparql-query",
                 "stars": 7
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "SPARQL2Git",
-              "description": "Easily store and curate SPARQL queries (and their associated Linked Data APIs) in GitHub.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 82817358,
-                "language": "HTML",
-                "last_commit": "2017-03-16T11:17:57Z",
-                "owner": "albertmeronyo",
-                "repo": "SPARQL2Git",
-                "stars": 6
               }
             },
             {
@@ -1728,7 +1728,7 @@
             "archived": false,
             "id": 344523716,
             "language": "Java",
-            "last_commit": "2026-08-21T16:08:14Z",
+            "last_commit": "2026-08-22T15:48:09Z",
             "owner": "LiUSemWeb",
             "repo": "HeFQUIN",
             "stars": 35
@@ -2047,7 +2047,7 @@
             "last_commit": "2013-08-18T01:18:18Z",
             "owner": "esbranson",
             "repo": "any2rdf",
-            "stars": 4
+            "stars": 5
           }
         },
         {
@@ -2131,7 +2131,7 @@
                 "last_commit": "2014-03-17T12:30:01Z",
                 "owner": "Data2Semantics",
                 "repo": "TabLinker",
-                "stars": 39
+                "stars": 40
               }
             },
             {
@@ -2482,7 +2482,7 @@
                 "last_commit": "2024-10-11T13:49:34Z",
                 "owner": "Scaseco",
                 "repo": "Sparqlify",
-                "stars": 134
+                "stars": 135
               }
             },
             {
@@ -2497,7 +2497,7 @@
                 "last_commit": "2022-12-12T23:29:06Z",
                 "owner": "Quetzal-RDF",
                 "repo": "quetzal",
-                "stars": 106
+                "stars": 107
               }
             },
             {
@@ -2531,7 +2531,7 @@
                 "archived": false,
                 "id": 30449481,
                 "language": "Java",
-                "last_commit": "2026-08-21T17:05:22Z",
+                "last_commit": "2026-08-22T18:09:36Z",
                 "owner": "apache",
                 "repo": "tinkerpop",
                 "stars": 2143
@@ -2633,7 +2633,7 @@
                     "last_commit": "2026-07-28T15:15:05Z",
                     "owner": "VladimirAlexiev",
                     "repo": "rdf2rml",
-                    "stars": 58
+                    "stars": 59
                   }
                 },
                 {
@@ -2693,7 +2693,7 @@
                     "last_commit": "2019-01-28T15:11:47Z",
                     "owner": "arc-lasalle",
                     "repo": "Map-On",
-                    "stars": 21
+                    "stars": 22
                   }
                 },
                 {
@@ -2824,7 +2824,7 @@
                     "archived": false,
                     "id": 104094274,
                     "language": "Java",
-                    "last_commit": "2026-08-20T22:02:40Z",
+                    "last_commit": "2026-08-21T22:02:58Z",
                     "owner": "carml",
                     "repo": "carml",
                     "stars": 114
@@ -2876,7 +2876,7 @@
                     "archived": false,
                     "id": 303967701,
                     "language": "Java",
-                    "last_commit": "2026-08-21T03:02:18Z",
+                    "last_commit": "2026-08-22T02:53:55Z",
                     "owner": "SPARQL-Anything",
                     "repo": "sparql.anything",
                     "stars": 305
@@ -3073,7 +3073,7 @@
             "last_commit": "2026-08-17T13:38:19Z",
             "owner": "INCATools",
             "repo": "ontology-development-kit",
-            "stars": 360
+            "stars": 361
           }
         },
         {
@@ -3088,7 +3088,7 @@
             "last_commit": "2026-07-09T18:48:16Z",
             "owner": "inovexcorp",
             "repo": "mobi",
-            "stars": 51
+            "stars": 53
           }
         },
         {
@@ -3100,7 +3100,7 @@
             "archived": false,
             "id": 1278501769,
             "language": "Scala",
-            "last_commit": "2026-08-21T19:29:39Z",
+            "last_commit": "2026-08-22T18:25:37Z",
             "owner": "NeverBlink-OSS",
             "repo": "linkml-scala",
             "stars": 39
@@ -3196,7 +3196,7 @@
             "archived": false,
             "id": 185797683,
             "language": "Prolog",
-            "last_commit": "2026-06-19T12:50:06Z",
+            "last_commit": "2026-08-22T21:02:31Z",
             "owner": "eyereasoner",
             "repo": "eye",
             "stars": 172
@@ -3259,7 +3259,7 @@
             "last_commit": "2023-03-04T02:46:34Z",
             "owner": "ucbl",
             "repo": "HyLAR-Reasoner",
-            "stars": 64
+            "stars": 65
           }
         },
         {
@@ -4044,7 +4044,7 @@
                 "last_commit": "2026-08-20T23:26:20Z",
                 "owner": "linkeddata",
                 "repo": "rdflib.js",
-                "stars": 593
+                "stars": 594
               }
             },
             {
@@ -4176,7 +4176,7 @@
                 "archived": false,
                 "id": 40290521,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T17:25:58Z",
+                "last_commit": "2026-08-22T15:06:14Z",
                 "owner": "shexjs",
                 "repo": "shex.js",
                 "stars": 62
@@ -4998,10 +4998,10 @@
                 "archived": false,
                 "id": 133687025,
                 "language": "Rust",
-                "last_commit": "2026-08-18T14:04:25Z",
+                "last_commit": "2026-08-22T19:12:42Z",
                 "owner": "oxigraph",
                 "repo": "oxigraph",
-                "stars": 1828
+                "stars": 1832
               }
             },
             {
@@ -5016,7 +5016,7 @@
                 "last_commit": "2026-08-20T10:58:16Z",
                 "owner": "pchampin",
                 "repo": "sophia_rs",
-                "stars": 327
+                "stars": 328
               }
             },
             {
@@ -5225,7 +5225,7 @@
                 "last_commit": "2026-08-18T23:27:06Z",
                 "owner": "kasei",
                 "repo": "kineo",
-                "stars": 39
+                "stars": 40
               }
             },
             {
@@ -5380,7 +5380,7 @@
                 "last_commit": "2026-08-19T18:26:49Z",
                 "owner": "johanwk",
                 "repo": "elot",
-                "stars": 31
+                "stars": 32
               }
             },
             {
@@ -5605,7 +5605,7 @@
             "last_commit": "2026-08-19T10:03:29Z",
             "owner": "sparna-git",
             "repo": "Sparnatural",
-            "stars": 303
+            "stars": 304
           }
         },
         {
@@ -5680,7 +5680,7 @@
             "last_commit": "2026-07-28T15:15:05Z",
             "owner": "VladimirAlexiev",
             "repo": "rdf2rml",
-            "stars": 58
+            "stars": 59
           }
         },
         {
@@ -5695,7 +5695,7 @@
             "last_commit": "2026-07-23T14:48:29Z",
             "owner": "xdobry",
             "repo": "rdfglance",
-            "stars": 49
+            "stars": 50
           }
         },
         {
@@ -5839,10 +5839,10 @@
             "archived": false,
             "id": 55072677,
             "language": "Go",
-            "last_commit": "2026-08-21T20:36:32Z",
+            "last_commit": "2026-08-22T16:29:53Z",
             "owner": "weaviate",
             "repo": "weaviate",
-            "stars": 16745
+            "stars": 16747
           }
         },
         {
@@ -5908,7 +5908,7 @@
             "last_commit": "2024-06-27T14:57:16Z",
             "owner": "AKSW",
             "repo": "QuitStore",
-            "stars": 114
+            "stars": 115
           }
         },
         {
@@ -6385,7 +6385,7 @@
             "last_commit": "2023-01-23T17:06:31Z",
             "owner": "IDLabResearch",
             "repo": "Git2PROV",
-            "stars": 35
+            "stars": 36
           }
         },
         {
@@ -6817,7 +6817,7 @@
             "last_commit": "2026-06-22T22:27:05Z",
             "owner": "monarch-initiative",
             "repo": "ontogpt",
-            "stars": 976
+            "stars": 977
           }
         },
         {
@@ -7432,7 +7432,7 @@
             "last_commit": "2026-02-28T05:57:39Z",
             "owner": "totogo",
             "repo": "awesome-knowledge-graph",
-            "stars": 1882
+            "stars": 1883
           }
         },
         {
@@ -9285,7 +9285,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T21:43:17.448Z",
+    "last_updated": "2026-08-22T21:40:38.944Z",
     "original_repository": "semantalytics/awesome-semantic-web",
     "original_repository_id": 71265967,
     "original_repository_sha": "681e4b094a8340ce56ea634595b1b91b0e052b36",
