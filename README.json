@@ -48,10 +48,10 @@
             "archived": false,
             "id": 133687025,
             "language": "Rust",
-            "last_commit": "2026-08-23T19:33:15Z",
+            "last_commit": "2026-08-24T19:22:27Z",
             "owner": "oxigraph",
             "repo": "oxigraph",
-            "stars": 1833
+            "stars": 1834
           }
         },
         {
@@ -789,7 +789,7 @@
                 "archived": false,
                 "id": 344523716,
                 "language": "Java",
-                "last_commit": "2026-08-24T11:01:11Z",
+                "last_commit": "2026-08-24T15:00:33Z",
                 "owner": "LiUSemWeb",
                 "repo": "HeFQUIN",
                 "stars": 35
@@ -1764,7 +1764,7 @@
             "archived": false,
             "id": 344523716,
             "language": "Java",
-            "last_commit": "2026-08-24T11:01:11Z",
+            "last_commit": "2026-08-24T15:00:33Z",
             "owner": "LiUSemWeb",
             "repo": "HeFQUIN",
             "stars": 35
@@ -4187,7 +4187,7 @@
                 "archived": false,
                 "id": 3058202,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T10:12:59Z",
+                "last_commit": "2026-08-24T20:10:31Z",
                 "owner": "rdfjs",
                 "repo": "N3.js",
                 "stars": 794
@@ -4769,7 +4769,7 @@
                 "archived": false,
                 "id": 3342046,
                 "language": "Python",
-                "last_commit": "2026-08-19T05:43:37Z",
+                "last_commit": "2026-08-24T18:15:14Z",
                 "owner": "RDFLib",
                 "repo": "rdflib",
                 "stars": 2498
@@ -4787,7 +4787,7 @@
                 "last_commit": "2026-08-06T22:50:36Z",
                 "owner": "Accenture",
                 "repo": "AmpliGraph",
-                "stars": 2237
+                "stars": 2238
               }
             },
             {
@@ -5225,10 +5225,10 @@
                 "archived": false,
                 "id": 133687025,
                 "language": "Rust",
-                "last_commit": "2026-08-23T19:33:15Z",
+                "last_commit": "2026-08-24T19:22:27Z",
                 "owner": "oxigraph",
                 "repo": "oxigraph",
-                "stars": 1833
+                "stars": 1834
               }
             },
             {
@@ -6088,10 +6088,10 @@
             "archived": false,
             "id": 55072677,
             "language": "Go",
-            "last_commit": "2026-08-24T14:05:42Z",
+            "last_commit": "2026-08-24T18:45:25Z",
             "owner": "weaviate",
             "repo": "weaviate",
-            "stars": 16749
+            "stars": 16750
           }
         },
         {
@@ -6325,7 +6325,7 @@
             "archived": false,
             "id": 107345960,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T06:02:25Z",
+            "last_commit": "2026-08-24T16:10:07Z",
             "owner": "comunica",
             "repo": "comunica",
             "stars": 578
@@ -6910,7 +6910,7 @@
             "last_commit": "2015-12-17T07:21:20Z",
             "owner": "YahooArchive",
             "repo": "anthelion",
-            "stars": 2828
+            "stars": 2827
           }
         },
         {
@@ -8380,7 +8380,7 @@
             "archived": false,
             "id": 9291271,
             "language": "Java",
-            "last_commit": "2026-08-21T02:33:04Z",
+            "last_commit": "2026-08-24T19:07:23Z",
             "owner": "Nanopublication",
             "repo": "nanopub-java",
             "stars": 33
@@ -9576,7 +9576,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:09:36.927Z",
+    "last_updated": "2026-08-24T21:48:14.304Z",
     "original_repository": "semantalytics/awesome-semantic-web",
     "original_repository_id": 71265967,
     "original_repository_sha": "681e4b094a8340ce56ea634595b1b91b0e052b36",
