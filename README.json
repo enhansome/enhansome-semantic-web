@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "hextuples",
+          "description": "NDJSON serialization",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 263676349,
+            "language": null,
+            "last_commit": "2024-10-14T11:27:52Z",
+            "owner": "ontola",
+            "repo": "hextuples",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "COTTAS",
+          "description": "Columnar Triple Table Storage",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1157183528,
+            "language": null,
+            "last_commit": "2026-02-13T10:50:19Z",
+            "owner": "arenas-guerrero-julian",
+            "repo": "pycottas",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Serialization"
+    },
+    {
       "description": "$ - Proprietary OS - OpenSource F - Free",
       "items": [
         {
@@ -105,7 +141,7 @@
             "last_commit": "2026-08-17T21:02:07Z",
             "owner": "MillenniumDB",
             "repo": "MillenniumDB",
-            "stars": 263
+            "stars": 264
           }
         },
         {
@@ -444,7 +480,7 @@
                 "archived": false,
                 "id": 3788366,
                 "language": "C",
-                "last_commit": "2026-08-05T08:49:52Z",
+                "last_commit": "2026-08-24T14:07:37Z",
                 "owner": "openlink",
                 "repo": "virtuoso-opensource",
                 "stars": 972
@@ -463,7 +499,7 @@
                 "archived": false,
                 "id": 87414843,
                 "language": "C++",
-                "last_commit": "2026-08-23T21:38:40Z",
+                "last_commit": "2026-08-24T13:59:37Z",
                 "owner": "hyrise",
                 "repo": "hyrise",
                 "stars": 870
@@ -753,7 +789,7 @@
                 "archived": false,
                 "id": 344523716,
                 "language": "Java",
-                "last_commit": "2026-08-23T20:15:01Z",
+                "last_commit": "2026-08-24T11:01:11Z",
                 "owner": "LiUSemWeb",
                 "repo": "HeFQUIN",
                 "stars": 35
@@ -1713,7 +1749,7 @@
             "archived": false,
             "id": 148931900,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T09:55:19Z",
+            "last_commit": "2026-08-24T09:56:00Z",
             "owner": "LDflex",
             "repo": "LDflex",
             "stars": 196
@@ -1728,7 +1764,7 @@
             "archived": false,
             "id": 344523716,
             "language": "Java",
-            "last_commit": "2026-08-23T20:15:01Z",
+            "last_commit": "2026-08-24T11:01:11Z",
             "owner": "LiUSemWeb",
             "repo": "HeFQUIN",
             "stars": 35
@@ -2560,6 +2596,21 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "ontmalizer",
+              "description": "Comprehensive transformations of XML Schemas (XSD) and XML data to RDF/OWL automatically.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10213663,
+                "language": "Java",
+                "last_commit": "2021-09-20T20:31:55Z",
+                "owner": "srdc",
+                "repo": "ontmalizer",
+                "stars": 85
+              }
+            },
+            {
               "children": [
                 {
                   "node_type": "item",
@@ -2573,7 +2624,7 @@
                     "last_commit": "2026-07-13T16:00:44Z",
                     "owner": "ontop",
                     "repo": "ontop",
-                    "stars": 921
+                    "stars": 922
                   }
                 },
                 {
@@ -2777,6 +2828,28 @@
                   "description": null,
                   "node_type": "group",
                   "title": "xR2RML"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "R2RML-F",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 109515633,
+                        "language": "Java",
+                        "last_commit": "2025-12-19T23:13:20Z",
+                        "owner": "chrdebru",
+                        "repo": "r2rml",
+                        "stars": 37
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "R2RML-F"
                 }
               ],
               "description": null,
@@ -2876,7 +2949,7 @@
                     "archived": false,
                     "id": 303967701,
                     "language": "Java",
-                    "last_commit": "2026-08-23T03:02:19Z",
+                    "last_commit": "2026-08-24T03:03:15Z",
                     "owner": "SPARQL-Anything",
                     "repo": "sparql.anything",
                     "stars": 305
@@ -3054,6 +3127,28 @@
           "description": null,
           "node_type": "group",
           "title": "Community"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MMOntologies",
+              "description": "Multimedia ontologies studied for the paper \"The Landscape of Multimedia Ontologies in the last Decade\".",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2136999,
+                "language": null,
+                "last_commit": "2024-03-17T20:05:28Z",
+                "owner": "gatemezing",
+                "repo": "MMOntologies",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Educational"
         }
       ],
       "title": "Ontologies"
@@ -3070,10 +3165,10 @@
             "archived": false,
             "id": 48047921,
             "language": "Dockerfile",
-            "last_commit": "2026-08-17T13:38:19Z",
+            "last_commit": "2026-08-24T12:50:45Z",
             "owner": "INCATools",
             "repo": "ontology-development-kit",
-            "stars": 361
+            "stars": 362
           }
         },
         {
@@ -3088,7 +3183,7 @@
             "last_commit": "2026-07-09T18:48:16Z",
             "owner": "inovexcorp",
             "repo": "mobi",
-            "stars": 53
+            "stars": 54
           }
         },
         {
@@ -3100,7 +3195,7 @@
             "archived": false,
             "id": 1278501769,
             "language": "Scala",
-            "last_commit": "2026-08-23T18:41:41Z",
+            "last_commit": "2026-08-24T13:04:55Z",
             "owner": "NeverBlink-OSS",
             "repo": "linkml-scala",
             "stars": 39
@@ -3199,7 +3294,7 @@
             "last_commit": "2026-08-22T22:01:48Z",
             "owner": "eyereasoner",
             "repo": "eye",
-            "stars": 172
+            "stars": 173
           }
         },
         {
@@ -3526,6 +3621,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "hdt-cpp",
+              "description": "Read and query HDT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19118611,
+                "language": "C++",
+                "last_commit": "2025-03-20T12:46:25Z",
+                "owner": "rdfhdt",
+                "repo": "hdt-cpp",
+                "stars": 127
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "C++"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "grafter",
               "description": "Linked Data & RDF Manufacturing Tools in Clojure.",
               "children": [],
@@ -3683,6 +3800,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "RDF.ex",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95326777,
+                "language": "Elixir",
+                "last_commit": "2026-08-13T07:22:33Z",
+                "owner": "rdf-elixir",
+                "repo": "rdf-ex",
+                "stars": 126
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Elixir"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "rdf2go",
               "description": "Native golang library for RDF.",
               "children": [],
@@ -3750,6 +3889,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "groovyrdf",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2279845,
+                "language": "Groovy",
+                "last_commit": "2023-03-13T05:02:21Z",
+                "owner": "angelo-v",
+                "repo": "groovyrdf",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Groovy"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "rdf4h",
               "description": null,
               "children": [],
@@ -3797,7 +3958,7 @@
                 "last_commit": "2026-07-27T20:12:23Z",
                 "owner": "filip26",
                 "repo": "titanium-json-ld",
-                "stars": 165
+                "stars": 166
               }
             },
             {
@@ -4026,7 +4187,7 @@
                 "archived": false,
                 "id": 3058202,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T21:39:15Z",
+                "last_commit": "2026-08-24T10:12:59Z",
                 "owner": "rdfjs",
                 "repo": "N3.js",
                 "stars": 794
@@ -4416,6 +4577,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "kotlin-rdf",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 101260051,
+                "language": "Kotlin",
+                "last_commit": "2017-09-07T05:39:09Z",
+                "owner": "nicholashauschild",
+                "repo": "kotlin-rdf",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Kotlin"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SPARQLKit",
+              "description": "An implementation of the SPARQL 1.1 query language in Objective-C.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10357747,
+                "language": "Objective-C",
+                "last_commit": "2016-10-17T03:10:17Z",
+                "owner": "kasei",
+                "repo": "SPARQLKit",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ObjectiveC"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "ARC2",
               "description": null,
               "children": [],
@@ -4567,7 +4772,7 @@
                 "last_commit": "2026-08-19T05:43:37Z",
                 "owner": "RDFLib",
                 "repo": "rdflib",
-                "stars": 2497
+                "stars": 2498
               }
             },
             {
@@ -4774,7 +4979,7 @@
                 "archived": false,
                 "id": 946682384,
                 "language": "Python",
-                "last_commit": "2026-08-20T13:13:50Z",
+                "last_commit": "2026-08-24T11:49:25Z",
                 "owner": "Jelly-RDF",
                 "repo": "pyjelly",
                 "stars": 19
@@ -4991,6 +5196,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "rdf-serializers",
+              "description": "Adds RDF serialization to Ruby on Rails active model serializers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 113973446,
+                "language": "Ruby",
+                "last_commit": "2022-05-04T09:56:29Z",
+                "owner": "ontola",
+                "repo": "rdf-serializers",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ruby"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Oxigraph",
               "description": "Oxigraph is a graph database implementing the SPARQL standard.",
               "children": [],
@@ -5016,7 +5243,7 @@
                 "last_commit": "2026-08-20T10:58:16Z",
                 "owner": "pchampin",
                 "repo": "sophia_rs",
-                "stars": 328
+                "stars": 329
               }
             },
             {
@@ -5402,6 +5629,28 @@
           "description": null,
           "node_type": "group",
           "title": "Emacs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "sparql/turtle extension",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8637439,
+                "language": "Ruby",
+                "last_commit": "2018-02-12T22:55:55Z",
+                "owner": "peta",
+                "repo": "turtle.tmbundle",
+                "stars": 29
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "TextMate"
         },
         {
           "children": [
@@ -5839,7 +6088,7 @@
             "archived": false,
             "id": 55072677,
             "language": "Go",
-            "last_commit": "2026-08-23T13:20:26Z",
+            "last_commit": "2026-08-24T14:05:42Z",
             "owner": "weaviate",
             "repo": "weaviate",
             "stars": 16749
@@ -6076,7 +6325,7 @@
             "archived": false,
             "id": 107345960,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T19:34:52Z",
+            "last_commit": "2026-08-24T06:02:25Z",
             "owner": "comunica",
             "repo": "comunica",
             "stars": 578
@@ -6322,7 +6571,7 @@
             "archived": false,
             "id": 40975824,
             "language": "Python",
-            "last_commit": "2026-08-21T07:41:58Z",
+            "last_commit": "2026-08-24T06:51:12Z",
             "owner": "common-workflow-language",
             "repo": "schema_salad",
             "stars": 86
@@ -7422,6 +7671,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "LoRiS",
+          "description": "generated natural-language representations of SPARQL queries over Wikidata and DBpedia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 766332987,
+            "language": "Python",
+            "last_commit": "2026-08-23T17:23:46Z",
+            "owner": "WSE-research",
+            "repo": "LoRiS-LLM-generated-Representations-of-SPARQL-queries",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "NLP"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "fester",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 189078565,
+            "language": "Java",
+            "last_commit": "2026-07-23T00:11:36Z",
+            "owner": "UCLALibrary",
+            "repo": "fester",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "IIIF"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "totogo/awesome-knowledge-graph",
           "description": null,
           "children": [],
@@ -7507,7 +7798,7 @@
             "last_commit": "2026-06-07T13:42:59Z",
             "owner": "ozekik",
             "repo": "awesome-ontology",
-            "stars": 672
+            "stars": 673
           }
         },
         {
@@ -9285,7 +9576,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:40:49.503Z",
+    "last_updated": "2026-08-24T14:09:36.927Z",
     "original_repository": "semantalytics/awesome-semantic-web",
     "original_repository_id": 71265967,
     "original_repository_sha": "681e4b094a8340ce56ea634595b1b91b0e052b36",
