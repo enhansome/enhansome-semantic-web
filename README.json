@@ -2624,7 +2624,7 @@
                     "last_commit": "2026-07-13T16:00:44Z",
                     "owner": "ontop",
                     "repo": "ontop",
-                    "stars": 922
+                    "stars": 923
                   }
                 },
                 {
@@ -2897,7 +2897,7 @@
                     "archived": false,
                     "id": 104094274,
                     "language": "Java",
-                    "last_commit": "2026-08-21T22:02:58Z",
+                    "last_commit": "2026-08-24T22:02:57Z",
                     "owner": "carml",
                     "repo": "carml",
                     "stars": 114
@@ -2949,7 +2949,7 @@
                     "archived": false,
                     "id": 303967701,
                     "language": "Java",
-                    "last_commit": "2026-08-24T03:03:15Z",
+                    "last_commit": "2026-08-25T02:58:06Z",
                     "owner": "SPARQL-Anything",
                     "repo": "sparql.anything",
                     "stars": 305
@@ -3195,7 +3195,7 @@
             "archived": false,
             "id": 1278501769,
             "language": "Scala",
-            "last_commit": "2026-08-24T13:04:55Z",
+            "last_commit": "2026-08-25T05:13:06Z",
             "owner": "NeverBlink-OSS",
             "repo": "linkml-scala",
             "stars": 39
@@ -4187,7 +4187,7 @@
                 "archived": false,
                 "id": 3058202,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T20:10:31Z",
+                "last_commit": "2026-08-24T23:46:31Z",
                 "owner": "rdfjs",
                 "repo": "N3.js",
                 "stars": 794
@@ -5243,7 +5243,7 @@
                 "last_commit": "2026-08-20T10:58:16Z",
                 "owner": "pchampin",
                 "repo": "sophia_rs",
-                "stars": 329
+                "stars": 330
               }
             },
             {
@@ -6088,7 +6088,7 @@
             "archived": false,
             "id": 55072677,
             "language": "Go",
-            "last_commit": "2026-08-24T18:45:25Z",
+            "last_commit": "2026-08-25T05:59:59Z",
             "owner": "weaviate",
             "repo": "weaviate",
             "stars": 16750
@@ -6325,7 +6325,7 @@
             "archived": false,
             "id": 107345960,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T16:10:07Z",
+            "last_commit": "2026-08-25T01:15:52Z",
             "owner": "comunica",
             "repo": "comunica",
             "stars": 578
@@ -7783,7 +7783,7 @@
             "last_commit": "2026-03-02T00:05:40Z",
             "owner": "owlcs",
             "repo": "owlapi",
-            "stars": 921
+            "stars": 922
           }
         },
         {
@@ -8103,7 +8103,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/stkenny/grefine-rdf-extension/releases/tag/v1.1.0",
+          "title": "stkenny/grefine-rdf-extension",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8380,7 +8380,7 @@
             "archived": false,
             "id": 9291271,
             "language": "Java",
-            "last_commit": "2026-08-24T19:07:23Z",
+            "last_commit": "2026-08-25T06:01:01Z",
             "owner": "Nanopublication",
             "repo": "nanopub-java",
             "stars": 33
@@ -9576,7 +9576,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T21:48:14.304Z",
+    "last_updated": "2026-08-25T06:02:28.766Z",
     "original_repository": "semantalytics/awesome-semantic-web",
     "original_repository_id": 71265967,
     "original_repository_sha": "681e4b094a8340ce56ea634595b1b91b0e052b36",
