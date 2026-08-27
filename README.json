@@ -51,7 +51,7 @@
             "last_commit": "2026-08-26T18:37:50Z",
             "owner": "oxigraph",
             "repo": "oxigraph",
-            "stars": 1842
+            "stars": 1844
           }
         },
         {
@@ -93,7 +93,7 @@
             "archived": false,
             "id": 27594187,
             "language": "C++",
-            "last_commit": "2026-08-27T00:50:27Z",
+            "last_commit": "2026-08-27T09:42:41Z",
             "owner": "ad-freiburg",
             "repo": "qlever",
             "stars": 887
@@ -499,7 +499,7 @@
                 "archived": false,
                 "id": 87414843,
                 "language": "C++",
-                "last_commit": "2026-08-26T20:43:42Z",
+                "last_commit": "2026-08-27T12:01:25Z",
                 "owner": "hyrise",
                 "repo": "hyrise",
                 "stars": 870
@@ -789,7 +789,7 @@
                 "archived": false,
                 "id": 344523716,
                 "language": "Java",
-                "last_commit": "2026-08-26T19:02:09Z",
+                "last_commit": "2026-08-27T09:20:22Z",
                 "owner": "LiUSemWeb",
                 "repo": "HeFQUIN",
                 "stars": 35
@@ -931,7 +931,7 @@
                 "archived": false,
                 "id": 27594187,
                 "language": "C++",
-                "last_commit": "2026-08-27T00:50:27Z",
+                "last_commit": "2026-08-27T09:42:41Z",
                 "owner": "ad-freiburg",
                 "repo": "qlever",
                 "stars": 887
@@ -1219,7 +1219,7 @@
                 "last_commit": "2026-06-25T21:43:46Z",
                 "owner": "Matdata-eu",
                 "repo": "Yasgui",
-                "stars": 30
+                "stars": 31
               }
             },
             {
@@ -1764,7 +1764,7 @@
             "archived": false,
             "id": 344523716,
             "language": "Java",
-            "last_commit": "2026-08-26T19:02:09Z",
+            "last_commit": "2026-08-27T09:20:22Z",
             "owner": "LiUSemWeb",
             "repo": "HeFQUIN",
             "stars": 35
@@ -2624,7 +2624,7 @@
                     "last_commit": "2026-07-13T16:00:44Z",
                     "owner": "ontop",
                     "repo": "ontop",
-                    "stars": 924
+                    "stars": 927
                   }
                 },
                 {
@@ -3195,7 +3195,7 @@
             "archived": false,
             "id": 1278501769,
             "language": "Scala",
-            "last_commit": "2026-08-26T14:11:31Z",
+            "last_commit": "2026-08-27T11:49:49Z",
             "owner": "NeverBlink-OSS",
             "repo": "linkml-scala",
             "stars": 40
@@ -4187,7 +4187,7 @@
                 "archived": false,
                 "id": 3058202,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T16:48:03Z",
+                "last_commit": "2026-08-27T00:58:53Z",
                 "owner": "rdfjs",
                 "repo": "N3.js",
                 "stars": 794
@@ -4817,7 +4817,7 @@
                 "last_commit": "2026-04-30T07:02:55Z",
                 "owner": "RDFLib",
                 "repo": "sparqlwrapper",
-                "stars": 566
+                "stars": 567
               }
             },
             {
@@ -5228,7 +5228,7 @@
                 "last_commit": "2026-08-26T18:37:50Z",
                 "owner": "oxigraph",
                 "repo": "oxigraph",
-                "stars": 1842
+                "stars": 1844
               }
             },
             {
@@ -5622,7 +5622,7 @@
                 "last_commit": "2020-09-21T14:08:57Z",
                 "owner": "jeeger",
                 "repo": "ttl-mode",
-                "stars": 12
+                "stars": 13
               }
             }
           ],
@@ -6088,7 +6088,7 @@
             "archived": false,
             "id": 55072677,
             "language": "Go",
-            "last_commit": "2026-08-26T21:58:09Z",
+            "last_commit": "2026-08-27T11:42:39Z",
             "owner": "weaviate",
             "repo": "weaviate",
             "stars": 16754
@@ -6325,7 +6325,7 @@
             "archived": false,
             "id": 107345960,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T14:02:25Z",
+            "last_commit": "2026-08-27T11:48:51Z",
             "owner": "comunica",
             "repo": "comunica",
             "stars": 578
@@ -6571,7 +6571,7 @@
             "archived": false,
             "id": 40975824,
             "language": "Python",
-            "last_commit": "2026-08-26T11:46:29Z",
+            "last_commit": "2026-08-27T07:42:16Z",
             "owner": "common-workflow-language",
             "repo": "schema_salad",
             "stars": 86
@@ -6859,7 +6859,7 @@
             "last_commit": "2026-08-21T17:14:15Z",
             "owner": "IoannisNezis",
             "repo": "Qlue-ls",
-            "stars": 47
+            "stars": 48
           }
         },
         {
@@ -7066,7 +7066,7 @@
             "last_commit": "2026-06-22T22:27:05Z",
             "owner": "monarch-initiative",
             "repo": "ontogpt",
-            "stars": 981
+            "stars": 982
           }
         },
         {
@@ -7858,7 +7858,7 @@
             "last_commit": "2020-08-04T15:36:34Z",
             "owner": "KBpedia",
             "repo": "kbpedia",
-            "stars": 238
+            "stars": 239
           }
         },
         {
@@ -8380,7 +8380,7 @@
             "archived": false,
             "id": 9291271,
             "language": "Java",
-            "last_commit": "2026-08-25T08:30:27Z",
+            "last_commit": "2026-08-27T09:41:40Z",
             "owner": "Nanopublication",
             "repo": "nanopub-java",
             "stars": 33
@@ -9576,9 +9576,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:52:06.528Z",
-    "original_repository": "semantalytics/awesome-semantic-web",
-    "original_repository_id": 71265967,
+    "last_updated": "2026-08-27T12:01:50.858Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 71265967,
+      "language": null,
+      "last_commit": "2026-08-14T12:39:32Z",
+      "owner": "semantalytics",
+      "repo": "awesome-semantic-web",
+      "stars": 1680
+    },
     "original_repository_sha": "681e4b094a8340ce56ea634595b1b91b0e052b36",
     "enhanced_repository": "enhansome/enhansome-semantic-web",
     "enhanced_repository_description": null,
