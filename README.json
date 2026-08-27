@@ -48,10 +48,10 @@
             "archived": false,
             "id": 133687025,
             "language": "Rust",
-            "last_commit": "2026-08-24T19:22:27Z",
+            "last_commit": "2026-08-26T18:37:50Z",
             "owner": "oxigraph",
             "repo": "oxigraph",
-            "stars": 1836
+            "stars": 1842
           }
         },
         {
@@ -93,10 +93,10 @@
             "archived": false,
             "id": 27594187,
             "language": "C++",
-            "last_commit": "2026-08-25T21:24:06Z",
+            "last_commit": "2026-08-27T00:50:27Z",
             "owner": "ad-freiburg",
             "repo": "qlever",
-            "stars": 886
+            "stars": 887
           }
         },
         {
@@ -499,7 +499,7 @@
                 "archived": false,
                 "id": 87414843,
                 "language": "C++",
-                "last_commit": "2026-08-25T20:25:23Z",
+                "last_commit": "2026-08-26T20:43:42Z",
                 "owner": "hyrise",
                 "repo": "hyrise",
                 "stars": 870
@@ -789,7 +789,7 @@
                 "archived": false,
                 "id": 344523716,
                 "language": "Java",
-                "last_commit": "2026-08-25T15:07:20Z",
+                "last_commit": "2026-08-26T19:02:09Z",
                 "owner": "LiUSemWeb",
                 "repo": "HeFQUIN",
                 "stars": 35
@@ -931,10 +931,10 @@
                 "archived": false,
                 "id": 27594187,
                 "language": "C++",
-                "last_commit": "2026-08-25T21:24:06Z",
+                "last_commit": "2026-08-27T00:50:27Z",
                 "owner": "ad-freiburg",
                 "repo": "qlever",
-                "stars": 886
+                "stars": 887
               }
             },
             {
@@ -1764,7 +1764,7 @@
             "archived": false,
             "id": 344523716,
             "language": "Java",
-            "last_commit": "2026-08-25T15:07:20Z",
+            "last_commit": "2026-08-26T19:02:09Z",
             "owner": "LiUSemWeb",
             "repo": "HeFQUIN",
             "stars": 35
@@ -2567,7 +2567,7 @@
                 "archived": false,
                 "id": 30449481,
                 "language": "Java",
-                "last_commit": "2026-08-22T18:09:36Z",
+                "last_commit": "2026-08-26T16:39:28Z",
                 "owner": "apache",
                 "repo": "tinkerpop",
                 "stars": 2144
@@ -2949,7 +2949,7 @@
                     "archived": false,
                     "id": 303967701,
                     "language": "Java",
-                    "last_commit": "2026-08-25T15:12:35Z",
+                    "last_commit": "2026-08-26T03:04:12Z",
                     "owner": "SPARQL-Anything",
                     "repo": "sparql.anything",
                     "stars": 306
@@ -3195,10 +3195,10 @@
             "archived": false,
             "id": 1278501769,
             "language": "Scala",
-            "last_commit": "2026-08-25T13:43:41Z",
+            "last_commit": "2026-08-26T14:11:31Z",
             "owner": "NeverBlink-OSS",
             "repo": "linkml-scala",
-            "stars": 39
+            "stars": 40
           }
         },
         {
@@ -3579,7 +3579,7 @@
                 "last_commit": "2026-08-16T16:32:05Z",
                 "owner": "dotnetrdf",
                 "repo": "dotnetrdf",
-                "stars": 328
+                "stars": 329
               }
             },
             {
@@ -4769,7 +4769,7 @@
                 "archived": false,
                 "id": 3342046,
                 "language": "Python",
-                "last_commit": "2026-08-24T18:15:14Z",
+                "last_commit": "2026-08-26T05:43:01Z",
                 "owner": "RDFLib",
                 "repo": "rdflib",
                 "stars": 2499
@@ -5225,10 +5225,10 @@
                 "archived": false,
                 "id": 133687025,
                 "language": "Rust",
-                "last_commit": "2026-08-24T19:22:27Z",
+                "last_commit": "2026-08-26T18:37:50Z",
                 "owner": "oxigraph",
                 "repo": "oxigraph",
-                "stars": 1836
+                "stars": 1842
               }
             },
             {
@@ -5604,7 +5604,7 @@
                 "archived": false,
                 "id": 766563713,
                 "language": "Emacs Lisp",
-                "last_commit": "2026-08-19T18:26:49Z",
+                "last_commit": "2026-08-25T22:19:09Z",
                 "owner": "johanwk",
                 "repo": "elot",
                 "stars": 32
@@ -5869,7 +5869,7 @@
             "last_commit": "2022-12-11T03:34:47Z",
             "owner": "metaphacts",
             "repo": "ontodia",
-            "stars": 176
+            "stars": 177
           }
         },
         {
@@ -6088,10 +6088,10 @@
             "archived": false,
             "id": 55072677,
             "language": "Go",
-            "last_commit": "2026-08-25T20:06:54Z",
+            "last_commit": "2026-08-26T21:58:09Z",
             "owner": "weaviate",
             "repo": "weaviate",
-            "stars": 16753
+            "stars": 16754
           }
         },
         {
@@ -6325,7 +6325,7 @@
             "archived": false,
             "id": 107345960,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T13:57:29Z",
+            "last_commit": "2026-08-26T14:02:25Z",
             "owner": "comunica",
             "repo": "comunica",
             "stars": 578
@@ -6571,7 +6571,7 @@
             "archived": false,
             "id": 40975824,
             "language": "Python",
-            "last_commit": "2026-08-25T14:39:58Z",
+            "last_commit": "2026-08-26T11:46:29Z",
             "owner": "common-workflow-language",
             "repo": "schema_salad",
             "stars": 86
@@ -7066,7 +7066,7 @@
             "last_commit": "2026-06-22T22:27:05Z",
             "owner": "monarch-initiative",
             "repo": "ontogpt",
-            "stars": 979
+            "stars": 981
           }
         },
         {
@@ -7723,7 +7723,7 @@
             "last_commit": "2026-02-28T05:57:39Z",
             "owner": "totogo",
             "repo": "awesome-knowledge-graph",
-            "stars": 1883
+            "stars": 1885
           }
         },
         {
@@ -7738,7 +7738,7 @@
             "last_commit": "2022-10-07T16:30:33Z",
             "owner": "shaoxiongji",
             "repo": "knowledge-graphs",
-            "stars": 1792
+            "stars": 1794
           }
         },
         {
@@ -7798,7 +7798,7 @@
             "last_commit": "2026-06-07T13:42:59Z",
             "owner": "ozekik",
             "repo": "awesome-ontology",
-            "stars": 673
+            "stars": 676
           }
         },
         {
@@ -7903,7 +7903,7 @@
             "last_commit": "2022-12-11T03:34:47Z",
             "owner": "metaphacts",
             "repo": "ontodia",
-            "stars": 176
+            "stars": 177
           }
         },
         {
@@ -9576,7 +9576,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T21:48:12.468Z",
+    "last_updated": "2026-08-27T00:52:06.528Z",
     "original_repository": "semantalytics/awesome-semantic-web",
     "original_repository_id": 71265967,
     "original_repository_sha": "681e4b094a8340ce56ea634595b1b91b0e052b36",
