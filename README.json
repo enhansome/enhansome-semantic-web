@@ -50,10 +50,10 @@
             "archived": false,
             "id": 133687025,
             "language": "Rust",
-            "last_commit": "2026-08-27T19:53:25Z",
+            "last_commit": "2026-08-28T20:08:44Z",
             "owner": "oxigraph",
             "repo": "oxigraph",
-            "stars": 1844
+            "stars": 1847
           },
           "first_seen": "2026-08-28T05:28:41.384Z"
         },
@@ -98,7 +98,7 @@
             "archived": false,
             "id": 27594187,
             "language": "C++",
-            "last_commit": "2026-08-28T00:48:38Z",
+            "last_commit": "2026-08-28T13:59:13Z",
             "owner": "ad-freiburg",
             "repo": "qlever",
             "stars": 889
@@ -117,7 +117,7 @@
             "last_commit": "2026-04-09T01:29:49Z",
             "owner": "pkumod",
             "repo": "gStore",
-            "stars": 836
+            "stars": 837
           },
           "first_seen": "2026-08-28T05:28:41.384Z"
         },
@@ -530,7 +530,7 @@
                 "archived": false,
                 "id": 87414843,
                 "language": "C++",
-                "last_commit": "2026-08-27T17:34:15Z",
+                "last_commit": "2026-08-28T20:28:33Z",
                 "owner": "hyrise",
                 "repo": "hyrise",
                 "stars": 870
@@ -838,7 +838,7 @@
                 "archived": false,
                 "id": 344523716,
                 "language": "Java",
-                "last_commit": "2026-08-27T12:10:37Z",
+                "last_commit": "2026-08-28T12:27:27Z",
                 "owner": "LiUSemWeb",
                 "repo": "HeFQUIN",
                 "stars": 35
@@ -989,7 +989,7 @@
                 "archived": false,
                 "id": 27594187,
                 "language": "C++",
-                "last_commit": "2026-08-28T00:48:38Z",
+                "last_commit": "2026-08-28T13:59:13Z",
                 "owner": "ad-freiburg",
                 "repo": "qlever",
                 "stars": 889
@@ -1142,6 +1142,22 @@
             },
             {
               "node_type": "item",
+              "title": "SparqlProg",
+              "description": "composable SPARQL using logic programming",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119122686,
+                "language": "Prolog",
+                "last_commit": "2023-01-16T13:38:09Z",
+                "owner": "cmungall",
+                "repo": "sparqlprog",
+                "stars": 51
+              },
+              "first_seen": "2026-08-28T05:28:41.384Z"
+            },
+            {
+              "node_type": "item",
               "title": "Sparklis",
               "description": "natural language query builder to explore and query endpoints with all the power of SPARQL yet without any knowledge of SPARQL.",
               "children": [],
@@ -1153,22 +1169,6 @@
                 "owner": "sebferre",
                 "repo": "sparklis",
                 "stars": 51
-              },
-              "first_seen": "2026-08-28T05:28:41.384Z"
-            },
-            {
-              "node_type": "item",
-              "title": "SparqlProg",
-              "description": "composable SPARQL using logic programming",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 119122686,
-                "language": "Prolog",
-                "last_commit": "2023-01-16T13:38:09Z",
-                "owner": "cmungall",
-                "repo": "sparqlprog",
-                "stars": 50
               },
               "first_seen": "2026-08-28T05:28:41.384Z"
             },
@@ -1876,7 +1876,7 @@
             "archived": false,
             "id": 344523716,
             "language": "Java",
-            "last_commit": "2026-08-27T12:10:37Z",
+            "last_commit": "2026-08-28T12:27:27Z",
             "owner": "LiUSemWeb",
             "repo": "HeFQUIN",
             "stars": 35
@@ -2728,7 +2728,7 @@
                 "archived": false,
                 "id": 30449481,
                 "language": "Java",
-                "last_commit": "2026-08-27T20:33:41Z",
+                "last_commit": "2026-08-28T23:42:45Z",
                 "owner": "apache",
                 "repo": "tinkerpop",
                 "stars": 2144
@@ -3133,7 +3133,7 @@
                     "archived": false,
                     "id": 303967701,
                     "language": "Java",
-                    "last_commit": "2026-08-27T12:23:51Z",
+                    "last_commit": "2026-08-28T13:49:42Z",
                     "owner": "SPARQL-Anything",
                     "repo": "sparql.anything",
                     "stars": 306
@@ -3364,7 +3364,7 @@
             "last_commit": "2026-08-24T12:50:45Z",
             "owner": "INCATools",
             "repo": "ontology-development-kit",
-            "stars": 365
+            "stars": 366
           },
           "first_seen": "2026-08-28T05:28:41.384Z"
         },
@@ -3393,10 +3393,10 @@
             "archived": false,
             "id": 1278501769,
             "language": "Scala",
-            "last_commit": "2026-08-27T14:50:35Z",
+            "last_commit": "2026-08-28T13:12:45Z",
             "owner": "NeverBlink-OSS",
             "repo": "linkml-scala",
-            "stars": 40
+            "stars": 43
           },
           "first_seen": "2026-08-28T05:28:41.384Z"
         },
@@ -4446,7 +4446,7 @@
                 "archived": false,
                 "id": 3058202,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T00:58:53Z",
+                "last_commit": "2026-08-28T15:28:04Z",
                 "owner": "rdfjs",
                 "repo": "N3.js",
                 "stars": 794
@@ -5067,7 +5067,7 @@
                 "last_commit": "2026-08-26T05:43:01Z",
                 "owner": "RDFLib",
                 "repo": "rdflib",
-                "stars": 2499
+                "stars": 2500
               },
               "first_seen": "2026-08-28T05:28:41.384Z"
             },
@@ -5549,10 +5549,10 @@
                 "archived": false,
                 "id": 133687025,
                 "language": "Rust",
-                "last_commit": "2026-08-27T19:53:25Z",
+                "last_commit": "2026-08-28T20:08:44Z",
                 "owner": "oxigraph",
                 "repo": "oxigraph",
-                "stars": 1844
+                "stars": 1847
               },
               "first_seen": "2026-08-28T05:28:41.384Z"
             },
@@ -6464,10 +6464,10 @@
             "archived": false,
             "id": 55072677,
             "language": "Go",
-            "last_commit": "2026-08-28T04:59:18Z",
+            "last_commit": "2026-08-29T00:19:38Z",
             "owner": "weaviate",
             "repo": "weaviate",
-            "stars": 16758
+            "stars": 16759
           },
           "first_seen": "2026-08-28T05:28:41.384Z"
         },
@@ -6716,7 +6716,7 @@
             "archived": false,
             "id": 107345960,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T01:15:46Z",
+            "last_commit": "2026-08-28T18:27:02Z",
             "owner": "comunica",
             "repo": "comunica",
             "stars": 578
@@ -6978,7 +6978,7 @@
             "archived": false,
             "id": 40975824,
             "language": "Python",
-            "last_commit": "2026-08-27T07:42:16Z",
+            "last_commit": "2026-08-28T14:08:33Z",
             "owner": "common-workflow-language",
             "repo": "schema_salad",
             "stars": 86
@@ -7505,7 +7505,7 @@
             "last_commit": "2026-06-22T22:27:05Z",
             "owner": "monarch-initiative",
             "repo": "ontogpt",
-            "stars": 982
+            "stars": 985
           },
           "first_seen": "2026-08-28T05:28:41.384Z"
         },
@@ -8086,7 +8086,7 @@
             "archived": false,
             "id": 18550041,
             "language": "Python",
-            "last_commit": "2026-08-27T22:11:53Z",
+            "last_commit": "2026-08-28T13:22:09Z",
             "owner": "OnroerendErfgoed",
             "repo": "atramhasis",
             "stars": 64
@@ -8283,7 +8283,7 @@
             "last_commit": "2026-06-07T13:42:59Z",
             "owner": "ozekik",
             "repo": "awesome-ontology",
-            "stars": 677
+            "stars": 680
           },
           "first_seen": "2026-08-28T05:28:41.384Z"
         },
@@ -8904,7 +8904,7 @@
             "archived": false,
             "id": 9291271,
             "language": "Java",
-            "last_commit": "2026-08-27T09:41:40Z",
+            "last_commit": "2026-08-28T11:03:40Z",
             "owner": "Nanopublication",
             "repo": "nanopub-java",
             "stars": 33
@@ -10180,7 +10180,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:28:41.384Z",
+    "last_updated": "2026-08-29T03:12:03.194Z",
     "original_repository_info": {
       "archived": false,
       "id": 71265967,
