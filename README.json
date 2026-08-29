@@ -63,11 +63,11 @@
             "id": 133687025,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T20:08:44Z",
-            "open_issues": 147,
+            "last_commit": "2026-08-29T20:22:29Z",
+            "open_issues": 153,
             "owner": "oxigraph",
             "repo": "oxigraph",
-            "stars": 1847,
+            "stars": 1848,
             "topics": [
               "graph-database",
               "rdf-store",
@@ -135,11 +135,11 @@
             "id": 27594187,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T13:59:13Z",
-            "open_issues": 401,
+            "last_commit": "2026-08-29T21:14:44Z",
+            "open_issues": 403,
             "owner": "ad-freiburg",
             "repo": "qlever",
-            "stars": 889,
+            "stars": 890,
             "topics": [
               "query-engine",
               "semantic-search-engine",
@@ -166,7 +166,7 @@
             "open_issues": 26,
             "owner": "pkumod",
             "repo": "gStore",
-            "stars": 837,
+            "stars": 838,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:41.384Z"
@@ -744,7 +744,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-24T14:07:37Z",
-                "open_issues": 667,
+                "open_issues": 671,
                 "owner": "openlink",
                 "repo": "virtuoso-opensource",
                 "stars": 973,
@@ -1432,11 +1432,11 @@
                 "id": 27594187,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T13:59:13Z",
-                "open_issues": 401,
+                "last_commit": "2026-08-29T21:14:44Z",
+                "open_issues": 403,
                 "owner": "ad-freiburg",
                 "repo": "qlever",
-                "stars": 889,
+                "stars": 890,
                 "topics": [
                   "query-engine",
                   "semantic-search-engine",
@@ -4057,7 +4057,7 @@
                     "open_issues": 106,
                     "owner": "ontop",
                     "repo": "ontop",
-                    "stars": 930,
+                    "stars": 931,
                     "topics": [
                       "java",
                       "obda",
@@ -4571,7 +4571,7 @@
                     "id": 303967701,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-28T13:49:42Z",
+                    "last_commit": "2026-08-29T08:40:38Z",
                     "open_issues": 58,
                     "owner": "SPARQL-Anything",
                     "repo": "sparql.anything",
@@ -4670,7 +4670,7 @@
                 "open_issues": 21,
                 "owner": "ewilderj",
                 "repo": "doap",
-                "stars": 287,
+                "stars": 288,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:28:41.384Z"
@@ -5186,7 +5186,7 @@
             "open_issues": 23,
             "owner": "liveontologies",
             "repo": "elk-reasoner",
-            "stars": 124,
+            "stars": 125,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:41.384Z"
@@ -6531,7 +6531,7 @@
                 "open_issues": 133,
                 "owner": "linkeddata",
                 "repo": "rdflib.js",
-                "stars": 594,
+                "stars": 595,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:28:41.384Z"
@@ -7396,7 +7396,7 @@
                 "open_issues": 371,
                 "owner": "RDFLib",
                 "repo": "rdflib",
-                "stars": 2500,
+                "stars": 2501,
                 "topics": [
                   "graph",
                   "json-ld",
@@ -7862,8 +7862,8 @@
                 "id": 1246662457,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T01:35:30Z",
-                "open_issues": 11,
+                "last_commit": "2026-08-29T17:13:29Z",
+                "open_issues": 17,
                 "owner": "mloda-ai",
                 "repo": "open-kgo",
                 "stars": 11,
@@ -8171,11 +8171,11 @@
                 "id": 133687025,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T20:08:44Z",
-                "open_issues": 147,
+                "last_commit": "2026-08-29T20:22:29Z",
+                "open_issues": 153,
                 "owner": "oxigraph",
                 "repo": "oxigraph",
-                "stars": 1847,
+                "stars": 1848,
                 "topics": [
                   "graph-database",
                   "rdf-store",
@@ -9259,7 +9259,7 @@
             "open_issues": 9,
             "owner": "xdobry",
             "repo": "rdfglance",
-            "stars": 50,
+            "stars": 51,
             "topics": [
               "egui",
               "graphs",
@@ -9480,8 +9480,8 @@
             "id": 55072677,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-29T00:19:38Z",
-            "open_issues": 691,
+            "last_commit": "2026-08-29T22:41:42Z",
+            "open_issues": 692,
             "owner": "weaviate",
             "repo": "weaviate",
             "stars": 16759,
@@ -9882,8 +9882,8 @@
             "id": 107345960,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T18:27:02Z",
-            "open_issues": 79,
+            "last_commit": "2026-08-29T09:14:03Z",
+            "open_issues": 80,
             "owner": "comunica",
             "repo": "comunica",
             "stars": 578,
@@ -10299,7 +10299,7 @@
             "id": 40975824,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T14:08:33Z",
+            "last_commit": "2026-08-29T17:03:17Z",
             "open_issues": 93,
             "owner": "common-workflow-language",
             "repo": "schema_salad",
@@ -10732,7 +10732,7 @@
             "id": 845553881,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-21T17:14:15Z",
+            "last_commit": "2026-08-29T14:08:32Z",
             "open_issues": 13,
             "owner": "IoannisNezis",
             "repo": "Qlue-ls",
@@ -11778,7 +11778,7 @@
             "open_issues": 16,
             "owner": "TopQuadrant",
             "repo": "shacl",
-            "stars": 245,
+            "stars": 246,
             "topics": [
               "shacl"
             ]
@@ -12157,7 +12157,7 @@
             "open_issues": 17,
             "owner": "jbmusso",
             "repo": "awesome-graph",
-            "stars": 1268,
+            "stars": 1270,
             "topics": [
               "graph",
               "graph-computing",
@@ -12236,7 +12236,7 @@
             "open_issues": 1,
             "owner": "ozekik",
             "repo": "awesome-ontology",
-            "stars": 680,
+            "stars": 681,
             "topics": [
               "knowledge-base",
               "knowledge-graph",
@@ -15095,7 +15095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:28:21.884Z",
+    "last_updated": "2026-08-29T23:25:08.549Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of various semantic web and linked data resources.",
@@ -15107,7 +15107,7 @@
       "open_issues": 32,
       "owner": "semantalytics",
       "repo": "awesome-semantic-web",
-      "stars": 1680,
+      "stars": 1681,
       "topics": [
         "awesome",
         "awesome-list",
