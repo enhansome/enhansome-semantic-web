@@ -135,8 +135,8 @@
             "id": 27594187,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T00:00:56Z",
-            "open_issues": 456,
+            "last_commit": "2026-10-03T02:06:31Z",
+            "open_issues": 451,
             "owner": "ad-freiburg",
             "repo": "qlever",
             "stars": 909,
@@ -507,7 +507,7 @@
         {
           "node_type": "item",
           "title": "CumulusRDF",
-          "description": null,
+          "description": "cumulusrdf/cumulusrdf",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -549,7 +549,7 @@
         {
           "node_type": "item",
           "title": "Marklogic",
-          "description": "($).",
+          "description": "marklogic-community/semantic",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -591,7 +591,7 @@
         {
           "node_type": "item",
           "title": "Sempala",
-          "description": null,
+          "description": "aschaetzle/Sempala",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -664,7 +664,7 @@
             {
               "node_type": "item",
               "title": "blazegraph-samples",
-              "description": null,
+              "description": "blazegraph/blazegraph-samples",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -685,7 +685,7 @@
             {
               "node_type": "item",
               "title": "docker-blazegraph",
-              "description": null,
+              "description": "lyrasis/docker-blazegraph",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -706,7 +706,7 @@
             {
               "node_type": "item",
               "title": "docker-blazegraph",
-              "description": null,
+              "description": "zorino/docker-blazegraph",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -734,7 +734,7 @@
             {
               "node_type": "item",
               "title": "virtuoso-opensource",
-              "description": null,
+              "description": "openlink/virtuoso-opensource",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -940,7 +940,7 @@
             {
               "node_type": "item",
               "title": "CSPARQL-engine",
-              "description": null,
+              "description": "streamreasoning/CSPARQL-engine",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1003,7 +1003,7 @@
             {
               "node_type": "item",
               "title": "morph-streams",
-              "description": null,
+              "description": "jpcik/morph-streams",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1068,7 +1068,7 @@
             {
               "node_type": "item",
               "title": "StreamingMASSIF",
-              "description": null,
+              "description": "KNowledgeOnWebScale/StreamingMASSIF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1093,7 +1093,7 @@
             {
               "node_type": "item",
               "title": "Triplewave",
-              "description": null,
+              "description": "streamreasoning/TripleWave",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1114,7 +1114,7 @@
             {
               "node_type": "item",
               "title": "streaming-sparql",
-              "description": null,
+              "description": "weblyzard/streaming-sparql",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1135,7 +1135,7 @@
             {
               "node_type": "item",
               "title": "cqels",
-              "description": null,
+              "description": "KMax/cqels",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1159,7 +1159,7 @@
             {
               "node_type": "item",
               "title": "morph-web",
-              "description": null,
+              "description": "jpcik/morph-web",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1229,7 +1229,7 @@
             {
               "node_type": "item",
               "title": "CostFed",
-              "description": null,
+              "description": "dice-group/CostFed",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1271,7 +1271,7 @@
             {
               "node_type": "item",
               "title": "ANAPSID",
-              "description": null,
+              "description": "anapsid/anapsid",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1325,7 +1325,7 @@
             {
               "node_type": "item",
               "title": "SPARQLFederator",
-              "description": null,
+              "description": "djogopatrao/SPARQLFederator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1346,7 +1346,7 @@
             {
               "node_type": "item",
               "title": "FedX",
-              "description": null,
+              "description": "VeritasOS/fedx",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1367,7 +1367,7 @@
             {
               "node_type": "item",
               "title": "rdffederator",
-              "description": null,
+              "description": "goerlitz/rdffederator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1388,7 +1388,7 @@
             {
               "node_type": "item",
               "title": "HiBISCuS",
-              "description": null,
+              "description": "AKSW/HiBISCuS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1432,8 +1432,8 @@
                 "id": 27594187,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T00:00:56Z",
-                "open_issues": 456,
+                "last_commit": "2026-10-03T02:06:31Z",
+                "open_issues": 451,
                 "owner": "ad-freiburg",
                 "repo": "qlever",
                 "stars": 909,
@@ -1548,7 +1548,7 @@
             {
               "node_type": "item",
               "title": "AutoSPARQL",
-              "description": null,
+              "description": "AskNowQA/AutoSPARQL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1711,7 +1711,7 @@
             {
               "node_type": "item",
               "title": "FlintSparqlEditor",
-              "description": null,
+              "description": "TSO-Openup/FlintSparqlEditor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1759,7 +1759,7 @@
             {
               "node_type": "item",
               "title": "sparql-transformer",
-              "description": null,
+              "description": "D2KLab/sparql-transformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1786,7 +1786,7 @@
             {
               "node_type": "item",
               "title": "SPARQL2NL",
-              "description": null,
+              "description": "AKSW/SPARQL2NL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1835,7 +1835,7 @@
             {
               "node_type": "item",
               "title": "YASGUI.legacy",
-              "description": null,
+              "description": "Triply-Dev/YASGUI.legacy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1887,7 +1887,7 @@
             {
               "node_type": "item",
               "title": "sparqled",
-              "description": null,
+              "description": "sindice/sparqled",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2013,7 +2013,7 @@
             {
               "node_type": "item",
               "title": "reactive-sparql",
-              "description": null,
+              "description": "agnos-ai/reactive-sparql",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2121,7 +2121,7 @@
             {
               "node_type": "item",
               "title": "antlr-sparql-grammar",
-              "description": null,
+              "description": "rollxx/antlr-sparql-grammar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2163,7 +2163,7 @@
             {
               "node_type": "item",
               "title": "snap-sparql-query",
-              "description": null,
+              "description": "protegeproject/snap-sparql-query",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2184,7 +2184,7 @@
             {
               "node_type": "item",
               "title": "SPARQL-parser",
-              "description": null,
+              "description": "tenforce/SPARQL-parser",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2252,7 +2252,7 @@
             {
               "node_type": "item",
               "title": "SparqlAnalytics",
-              "description": null,
+              "description": "AKSW/SparqlAnalytics",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2273,7 +2273,7 @@
             {
               "node_type": "item",
               "title": "SAFE",
-              "description": null,
+              "description": "yasarkhangithub/SAFE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2315,7 +2315,7 @@
             {
               "node_type": "item",
               "title": "sparql-proxy",
-              "description": null,
+              "description": "clarkparsia/sparql-proxy",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2378,7 +2378,7 @@
             {
               "node_type": "item",
               "title": "fluent-sparql",
-              "description": null,
+              "description": "stoewer/fluent-sparql",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2410,7 +2410,7 @@
         {
           "node_type": "item",
           "title": "IGUANA",
-          "description": null,
+          "description": "dice-group/IGUANA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2833,7 +2833,7 @@
         {
           "node_type": "item",
           "title": "trellis",
-          "description": null,
+          "description": "trellis-ldp/trellis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2930,7 +2930,7 @@
         {
           "node_type": "item",
           "title": "LDP4j",
-          "description": null,
+          "description": "ldp4j/ldp4j",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3034,7 +3034,7 @@
             {
               "node_type": "item",
               "title": "Justin's Weblog",
-              "description": null,
+              "description": "justin2004/weblog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3055,7 +3055,7 @@
             {
               "node_type": "item",
               "title": "TerminusDB Technical Blogs",
-              "description": null,
+              "description": "terminusdb/technical-blogs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3227,7 +3227,7 @@
         {
           "node_type": "item",
           "title": "pyrdb2rdf",
-          "description": null,
+          "description": "nisavid/pyrdb2rdf",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -3248,7 +3248,7 @@
         {
           "node_type": "item",
           "title": "any2rdf",
-          "description": null,
+          "description": "esbranson/any2rdf",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3269,7 +3269,7 @@
         {
           "node_type": "item",
           "title": "triplify",
-          "description": null,
+          "description": "pebbie/triplify",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3334,7 +3334,7 @@
             {
               "node_type": "item",
               "title": "geometry2rdf",
-              "description": null,
+              "description": "boricles/geometry2rdf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3362,7 +3362,7 @@
             {
               "node_type": "item",
               "title": "TabLinker",
-              "description": null,
+              "description": "Data2Semantics/TabLinker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3383,7 +3383,7 @@
             {
               "node_type": "item",
               "title": "xlwrap",
-              "description": null,
+              "description": "sidewinderlabs/xlwrap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3411,7 +3411,7 @@
             {
               "node_type": "item",
               "title": "tarql",
-              "description": null,
+              "description": "tarql/tarql",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3432,7 +3432,7 @@
             {
               "node_type": "item",
               "title": "csv2rdf4lod-automation",
-              "description": null,
+              "description": "timrdf/csv2rdf4lod-automation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3557,7 +3557,7 @@
             {
               "node_type": "item",
               "title": "tarql-component",
-              "description": null,
+              "description": "opencube-toolkit/tarql-component",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3578,7 +3578,7 @@
             {
               "node_type": "item",
               "title": "csv2rdf",
-              "description": null,
+              "description": "notruthless/csv2rdf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3700,7 +3700,7 @@
             {
               "node_type": "item",
               "title": "rdfbeans",
-              "description": null,
+              "description": "cyberborean/rdfbeans",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4182,7 +4182,7 @@
                 {
                   "node_type": "item",
                   "title": "R2RML-F",
-                  "description": null,
+                  "description": "chrdebru/r2rml",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4266,7 +4266,7 @@
                 {
                   "node_type": "item",
                   "title": "sparqlmap",
-                  "description": null,
+                  "description": "tomatophantastico/sparqlmap",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4287,7 +4287,7 @@
                 {
                   "node_type": "item",
                   "title": "R2RML-api",
-                  "description": null,
+                  "description": "R2RML-api/R2RML-api",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4311,7 +4311,7 @@
                 {
                   "node_type": "item",
                   "title": "R2RML-kit",
-                  "description": null,
+                  "description": "d2rq/r2rml-kit",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -4355,7 +4355,7 @@
                     {
                       "node_type": "item",
                       "title": "morph-xr2rml",
-                      "description": null,
+                      "description": "frmichel/morph-xr2rml",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4383,7 +4383,7 @@
                     {
                       "node_type": "item",
                       "title": "R2RML-F",
-                      "description": null,
+                      "description": "chrdebru/r2rml",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4502,7 +4502,7 @@
                 {
                   "node_type": "item",
                   "title": "RocketRML",
-                  "description": null,
+                  "description": "semantifyit/RocketRML",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4590,7 +4590,7 @@
                 {
                   "node_type": "item",
                   "title": "sparql-generate",
-                  "description": null,
+                  "description": "sparql-generate/sparql-generate",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5078,7 +5078,7 @@
         {
           "node_type": "item",
           "title": "Pellet",
-          "description": null,
+          "description": "stardog-union/pellet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5099,7 +5099,7 @@
         {
           "node_type": "item",
           "title": "OWL-RL",
-          "description": null,
+          "description": "RDFLib/OWL-RL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5175,7 +5175,7 @@
         {
           "node_type": "item",
           "title": "openllet",
-          "description": null,
+          "description": "Galigator/openllet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5206,7 +5206,7 @@
         {
           "node_type": "item",
           "title": "ELK",
-          "description": null,
+          "description": "liveontologies/elk-reasoner",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5227,7 +5227,7 @@
         {
           "node_type": "item",
           "title": "HyLAR",
-          "description": null,
+          "description": "ucbl/HyLAR-Reasoner",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5253,7 +5253,7 @@
         {
           "node_type": "item",
           "title": "Whelk",
-          "description": null,
+          "description": "INCATools/whelk",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5302,7 +5302,7 @@
         {
           "node_type": "item",
           "title": "ruby-rdf/rdf-reasoner",
-          "description": null,
+          "description": "ruby-rdf/rdf-reasoner",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5372,7 +5372,7 @@
         {
           "node_type": "item",
           "title": "elephant-reasoner",
-          "description": null,
+          "description": "sertkaya/elephant-reasoner",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5431,7 +5431,7 @@
                 "id": 838288,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T06:13:43Z",
+                "last_commit": "2026-10-03T03:14:58Z",
                 "open_issues": 13,
                 "owner": "dajobe",
                 "repo": "raptor",
@@ -5582,7 +5582,7 @@
             {
               "node_type": "item",
               "title": "dotNetRDF",
-              "description": null,
+              "description": "dotnetrdf/dotnetrdf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5606,7 +5606,7 @@
             {
               "node_type": "item",
               "title": "RDFSharp",
-              "description": null,
+              "description": "mdesalvo/RDFSharp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5636,7 +5636,7 @@
             {
               "node_type": "item",
               "title": "Rdf.Vocabularies",
-              "description": null,
+              "description": "wikibus/Rdf.Vocabularies",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5964,7 +5964,7 @@
             {
               "node_type": "item",
               "title": "RDF.ex",
-              "description": null,
+              "description": "rdf-elixir/rdf-ex",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6109,7 +6109,7 @@
             {
               "node_type": "item",
               "title": "groovyrdf",
-              "description": null,
+              "description": "angelo-v/groovyrdf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6137,7 +6137,7 @@
             {
               "node_type": "item",
               "title": "rdf4h",
-              "description": null,
+              "description": "robstewart57/rdf4h",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6158,7 +6158,7 @@
             {
               "node_type": "item",
               "title": "hsparql",
-              "description": null,
+              "description": "robstewart57/hsparql",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6349,7 +6349,7 @@
             {
               "node_type": "item",
               "title": "foafssl-java",
-              "description": null,
+              "description": "bblfish/foafssl-java",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6475,7 +6475,7 @@
             {
               "node_type": "item",
               "title": "jdbc-for-rdf3x",
-              "description": null,
+              "description": "dbiir/jdbc-for-rdf3x",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6496,7 +6496,7 @@
             {
               "node_type": "item",
               "title": "jena-joseki",
-              "description": null,
+              "description": "tingletech/jena-joseki",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6524,7 +6524,7 @@
             {
               "node_type": "item",
               "title": "N3.js",
-              "description": null,
+              "description": "rdfjs/N3.js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6572,7 +6572,7 @@
             {
               "node_type": "item",
               "title": "rdfstore-js",
-              "description": null,
+              "description": "antoniogarrote/rdfstore-js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6640,7 +6640,7 @@
             {
               "node_type": "item",
               "title": "rdf-ext",
-              "description": null,
+              "description": "rdf-ext/rdf-ext",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6723,7 +6723,7 @@
             {
               "node_type": "item",
               "title": "js3",
-              "description": null,
+              "description": "webr3/js3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6916,7 +6916,7 @@
             {
               "node_type": "item",
               "title": "rdf.js",
-              "description": null,
+              "description": "webr3/rdf.js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7192,7 +7192,7 @@
             {
               "node_type": "item",
               "title": "kotlin-rdf",
-              "description": null,
+              "description": "nicholashauschild/kotlin-rdf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7248,7 +7248,7 @@
             {
               "node_type": "item",
               "title": "ARC2",
-              "description": null,
+              "description": "semsol/arc2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7269,7 +7269,7 @@
             {
               "node_type": "item",
               "title": "PHP-SPARQL-Lib",
-              "description": null,
+              "description": "cgutteridge/PHP-SPARQL-Lib",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7446,8 +7446,8 @@
                 "id": 3342046,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-02T16:09:08Z",
-                "open_issues": 381,
+                "last_commit": "2026-10-03T01:30:03Z",
+                "open_issues": 380,
                 "owner": "RDFLib",
                 "repo": "rdflib",
                 "stars": 2522,
@@ -8030,7 +8030,7 @@
             {
               "node_type": "item",
               "title": "rdflib",
-              "description": null,
+              "description": "ropensci/rdflib",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8056,7 +8056,7 @@
             {
               "node_type": "item",
               "title": "jsonld",
-              "description": null,
+              "description": "ropensci/jsonld",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8082,7 +8082,7 @@
             {
               "node_type": "item",
               "title": "rrdf",
-              "description": null,
+              "description": "egonw/rrdf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8130,7 +8130,7 @@
             {
               "node_type": "item",
               "title": "redland",
-              "description": null,
+              "description": "ropensci/redland-bindings",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8346,7 +8346,7 @@
                 "id": 1286258226,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T23:16:12Z",
+                "last_commit": "2026-10-03T04:43:23Z",
                 "open_issues": 10,
                 "owner": "Blackcat-Informatics",
                 "repo": "purrdf",
@@ -8574,7 +8574,7 @@
             {
               "node_type": "item",
               "title": "jvmrdftools",
-              "description": null,
+              "description": "cosminbasca/jvmrdftools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8729,7 +8729,7 @@
             {
               "node_type": "item",
               "title": "semweb.vim",
-              "description": null,
+              "description": "seebi/semweb.vim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8771,7 +8771,7 @@
             {
               "node_type": "item",
               "title": "vim-sparql",
-              "description": null,
+              "description": "Omer/vim-sparql",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8799,7 +8799,7 @@
             {
               "node_type": "item",
               "title": "sparql-mode",
-              "description": null,
+              "description": "ljos/sparql-mode",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8884,7 +8884,7 @@
             {
               "node_type": "item",
               "title": "sparql/turtle extension",
-              "description": null,
+              "description": "peta/turtle.tmbundle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8912,7 +8912,7 @@
             {
               "node_type": "item",
               "title": "Turtle and SPARQL syntax highlighter",
-              "description": null,
+              "description": "abcoates/sublime-text-turtle-sparql",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8965,7 +8965,7 @@
         {
           "node_type": "item",
           "title": "LinkedGeoData",
-          "description": null,
+          "description": "GeoKnow/LinkedGeoData",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8996,7 +8996,7 @@
         {
           "node_type": "item",
           "title": "GeoARQ",
-          "description": null,
+          "description": "castagna/GeoARQ",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9017,7 +9017,7 @@
         {
           "node_type": "item",
           "title": "linkedspatialindex",
-          "description": null,
+          "description": "wwaites/linkedspatialindex",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9038,7 +9038,7 @@
         {
           "node_type": "item",
           "title": "GeomRDF",
-          "description": null,
+          "description": "fhamdi/GeomRDF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9059,7 +9059,7 @@
         {
           "node_type": "item",
           "title": "SemantGeo",
-          "description": null,
+          "description": "apseyed/SemantGeo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9080,7 +9080,7 @@
         {
           "node_type": "item",
           "title": "GeoLift",
-          "description": null,
+          "description": "AKSW/GeoLift",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9176,7 +9176,7 @@
         {
           "node_type": "item",
           "title": "Sparnatural",
-          "description": null,
+          "description": "sparna-git/Sparnatural",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9264,7 +9264,7 @@
         {
           "node_type": "item",
           "title": "d3-sparql",
-          "description": null,
+          "description": "zazuko/d3-sparql",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9291,7 +9291,7 @@
         {
           "node_type": "item",
           "title": "visualRDF",
-          "description": null,
+          "description": "alangrafu/visualRDF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9439,7 +9439,7 @@
         {
           "node_type": "item",
           "title": "gephi-semantic-web-import",
-          "description": null,
+          "description": "Wimmics/gephi-semantic-web-import",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9487,7 +9487,7 @@
         {
           "node_type": "item",
           "title": "CubeViz",
-          "description": null,
+          "description": "AKSW/cubeviz.ontowiki",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9508,7 +9508,7 @@
         {
           "node_type": "item",
           "title": "NoSPA-RDF-Data-Cube-Validator",
-          "description": null,
+          "description": "yyz1989/NoSPA-RDF-Data-Cube-Validator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9559,7 +9559,7 @@
         {
           "node_type": "item",
           "title": "qb4olap-tools",
-          "description": null,
+          "description": "lorenae/qb4olap-tools",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9580,7 +9580,7 @@
         {
           "node_type": "item",
           "title": "OpenCube-Expander",
-          "description": null,
+          "description": "opencube-toolkit/OpenCube-Expander",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9607,7 +9607,7 @@
         {
           "node_type": "item",
           "title": "Weviate",
-          "description": null,
+          "description": "weaviate/weaviate",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9617,10 +9617,10 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T21:10:00Z",
-            "open_issues": 797,
+            "open_issues": 798,
             "owner": "weaviate",
             "repo": "weaviate",
-            "stars": 16860,
+            "stars": 16859,
             "topics": [
               "approximate-nearest-neighbor-search",
               "generative-search",
@@ -9982,7 +9982,7 @@
         {
           "node_type": "item",
           "title": "rdfpatch",
-          "description": null,
+          "description": "pchampin/ld-patch-py",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10405,7 +10405,7 @@
         {
           "node_type": "item",
           "title": "HydraConsole",
-          "description": null,
+          "description": "lanthaler/HydraConsole",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10817,7 +10817,7 @@
         {
           "node_type": "item",
           "title": "IntervalServer",
-          "description": null,
+          "description": "epimorphics/IntervalServer",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -10868,8 +10868,8 @@
             "id": 845553881,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-30T03:42:11Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-03T04:52:26Z",
+            "open_issues": 13,
             "owner": "IoannisNezis",
             "repo": "Qlue-ls",
             "stars": 49,
@@ -11286,7 +11286,7 @@
         {
           "node_type": "item",
           "title": "signal-collect",
-          "description": null,
+          "description": "uzh/signal-collect",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11761,7 +11761,7 @@
         {
           "node_type": "item",
           "title": "solid-spec",
-          "description": null,
+          "description": "solid/solid-spec",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -11784,7 +11784,7 @@
         {
           "node_type": "item",
           "title": "webid-spec",
-          "description": null,
+          "description": "webid-community/webid-spec",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11805,7 +11805,7 @@
         {
           "node_type": "item",
           "title": "node-webid",
-          "description": null,
+          "description": "magnetik/node-webid",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11826,7 +11826,7 @@
         {
           "node_type": "item",
           "title": "webid-demo",
-          "description": null,
+          "description": "digitalbazaar/webid-demo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11924,7 +11924,7 @@
         {
           "node_type": "item",
           "title": "RDFunit",
-          "description": null,
+          "description": "AKSW/RDFUnit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11956,7 +11956,7 @@
         {
           "node_type": "item",
           "title": "labra/shaclex",
-          "description": null,
+          "description": "weso/shaclex",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -12041,7 +12041,7 @@
         {
           "node_type": "item",
           "title": "atramhasis",
-          "description": null,
+          "description": "OnroerendErfgoed/atramhasis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -12090,7 +12090,7 @@
         {
           "node_type": "item",
           "title": "java-skos-api",
-          "description": null,
+          "description": "simonjupp/java-skos-api",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -12183,7 +12183,7 @@
         {
           "node_type": "item",
           "title": "fester",
-          "description": null,
+          "description": "UCLALibrary/fester",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -12214,7 +12214,7 @@
         {
           "node_type": "item",
           "title": "totogo/awesome-knowledge-graph",
-          "description": null,
+          "description": "totogo/awesome-knowledge-graph",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -12241,7 +12241,7 @@
         {
           "node_type": "item",
           "title": "shaoxiongi/awesome-knowlege-graph",
-          "description": null,
+          "description": "shaoxiongji/knowledge-graphs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -12280,7 +12280,7 @@
         {
           "node_type": "item",
           "title": "awesome-graph",
-          "description": null,
+          "description": "jbmusso/awesome-graph",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -12387,7 +12387,7 @@
         {
           "node_type": "item",
           "title": "awesome-prolog",
-          "description": null,
+          "description": "klaudiosinani/awesome-prolog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -12640,7 +12640,7 @@
         {
           "node_type": "item",
           "title": "awesome GLAM semweb",
-          "description": null,
+          "description": "ncarboni/awesome-GLAM-semweb",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -12691,7 +12691,7 @@
         {
           "node_type": "item",
           "title": "hydra-java",
-          "description": null,
+          "description": "dschulten/hydra-java",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -12770,7 +12770,7 @@
         {
           "node_type": "item",
           "title": "activitystreams",
-          "description": null,
+          "description": "OpenSocial/activitystreams",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -12841,7 +12841,7 @@
         {
           "node_type": "item",
           "title": "Awesome Knowledge Graph Construction Tools",
-          "description": null,
+          "description": "kg-construct/awesome-kgc-tools",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -12883,7 +12883,7 @@
         {
           "node_type": "item",
           "title": "stardog.js",
-          "description": null,
+          "description": "stardog-union/stardog.js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -12910,7 +12910,7 @@
         {
           "node_type": "item",
           "title": "stkenny/grefine-rdf-extension",
-          "description": null,
+          "description": "stkenny/grefine-rdf-extension",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -13170,7 +13170,7 @@
         {
           "node_type": "item",
           "title": "dbpedia-extension",
-          "description": null,
+          "description": "sparkica/dbpedia-extension",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -13366,7 +13366,7 @@
         {
           "node_type": "item",
           "title": "SEPA",
-          "description": null,
+          "description": "vaimee/SEPA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -13408,7 +13408,7 @@
         {
           "node_type": "item",
           "title": "nanopub-java",
-          "description": null,
+          "description": "Nanopublication/nanopub-java",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -13528,7 +13528,7 @@
         {
           "node_type": "item",
           "title": "awesome-semantic-web-business",
-          "description": null,
+          "description": "KMax/awesome-semantic-web-business",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -13808,7 +13808,7 @@
         {
           "node_type": "item",
           "title": "HydraClient",
-          "description": null,
+          "description": "lanthaler/HydraClient",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -14084,7 +14084,7 @@
         {
           "node_type": "item",
           "title": "awesome-ontologies",
-          "description": null,
+          "description": "semantalytics/awesome-ontologies",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -14244,7 +14244,7 @@
         {
           "node_type": "item",
           "title": "dcat-ap_validatyor",
-          "description": null,
+          "description": "SEMICeu/dcat-ap_validator",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -14286,7 +14286,7 @@
         {
           "node_type": "item",
           "title": "[scylla-rdf](https://github.com/DataFabricRus/scylla-rdf",
-          "description": null,
+          "description": "DataFabricRus/scylla-rdf",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -14333,7 +14333,7 @@
         {
           "node_type": "item",
           "title": "linked-csv-browser",
-          "description": null,
+          "description": "theodi/linked-csv-browser",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -14443,7 +14443,7 @@
         {
           "node_type": "item",
           "title": "datastudio-sparql-connector",
-          "description": null,
+          "description": "DataFabricRus/datastudio-sparql-connector",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -14561,7 +14561,7 @@
         {
           "node_type": "item",
           "title": "stardog-groovy",
-          "description": null,
+          "description": "stardog-union/stardog-groovy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -14892,7 +14892,7 @@
         {
           "node_type": "item",
           "title": "Awesome Java RDF",
-          "description": null,
+          "description": "enola-dev/awesome-java-rdf",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -14947,7 +14947,7 @@
         {
           "node_type": "item",
           "title": "owl-functional-syntax-axiom-parser",
-          "description": null,
+          "description": "dfleischhacker/owl-functional-syntax-axiom-parser",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -14998,7 +14998,7 @@
         {
           "node_type": "item",
           "title": "wordnet-lemon-to-w3c",
-          "description": null,
+          "description": "jimregan/wordnet-lemon-to-w3c",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -15231,7 +15231,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:32:55.981Z",
+    "last_updated": "2026-10-03T05:07:28.003Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of various semantic web and linked data resources.",

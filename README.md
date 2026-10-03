@@ -2,9 +2,9 @@
 
 A curated list of various semantic web and linked data resources.
 
-To add something to the list please either submit a pull request or add a comment with a link to [issues/awesomelets](https://github.com/semantalytics/awesome-semantic-web/issues/81) ⭐ 1,700 | 🐛 31 | 📅 2026-10-02. Pull requests will be evaluated immediately for inclusion while awesomelets will be evaluated at some indeterminate time in the future.
+To add something to the list please either submit a pull request or add a comment with a link to [issues/awesomelets](https://github.com/semantalytics/awesome-semantic-web/issues/81). Pull requests will be evaluated immediately for inclusion while awesomelets will be evaluated at some indeterminate time in the future.
 
-Looking for something but can't find it? Add it to the ["Does it exist"](https://github.com/semantalytics/awesome-semantic-web/issues/74) ⭐ 1,700 | 🐛 31 | 📅 2026-10-02 list and we'll keep an eye out for it. If it's a good idea maybe someone will come along and create it!
+Looking for something but can't find it? Add it to the ["Does it exist"](https://github.com/semantalytics/awesome-semantic-web/issues/74) list and we'll keep an eye out for it. If it's a good idea maybe someone will come along and create it!
 
 ## Contents
 
@@ -326,7 +326,7 @@ F - Free
 * [Oxigraph](https://github.com/oxigraph/oxigraph) ⭐ 1,970 | 🐛 154 | 🌐 Rust | 📅 2026-10-02 - (OS) a graph database implementing the SPARQL standard and written in Rust.
 * [Akutan](https://github.com/eBay/akutan) ⚠️ Archived - (OS) A distributed knowledge graph store written in Golang. Formerly known as Beam.
 * [levelgraph](https://github.com/levelgraph/levelgraph) ⭐ 1,519 | 🐛 49 | 🌐 JavaScript | 📅 2024-05-28 - (OS) Graph database JS style for Node.js and the Browser.
-* [QLever](https://github.com/ad-freiburg/qlever) ⭐ 909 | 🐛 456 | 🌐 C++ | 📅 2026-10-03 - (OS) a SPARQL engine that can efficiently index and query very large knowledge graphs with over a trillion triples on a single standard PC or server
+* [QLever](https://github.com/ad-freiburg/qlever) ⭐ 909 | 🐛 451 | 🌐 C++ | 📅 2026-10-03 - (OS) a SPARQL engine that can efficiently index and query very large knowledge graphs with over a trillion triples on a single standard PC or server
 * [gStore](https://github.com/pkumod/gStore) ⭐ 842 | 🐛 26 | 🌐 C++ | 📅 2026-04-09 - (OS) - a graph based RDF triple store.
 * [4Store](https://github.com/garlik/4store) ⭐ 299 | 🐛 50 | 🌐 C | 📅 2024-05-10 - (OS).
 * [MillenniumDB](https://github.com/MillenniumDB/MillenniumDB) ⭐ 266 | 🐛 2 | 🌐 C++ | 📅 2026-09-30 - (OS)
@@ -444,7 +444,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 ### SPARQL Applications
 
-* [QLever](https://github.com/ad-freiburg/QLever) ⭐ 909 | 🐛 456 | 🌐 C++ | 📅 2026-10-03 - Highly efficient query engine for SPARQL+Text.
+* [QLever](https://github.com/ad-freiburg/QLever) ⭐ 909 | 🐛 451 | 🌐 C++ | 📅 2026-10-03 - Highly efficient query engine for SPARQL+Text.
 * [YASGUI Triply fork](https://github.com/OpenTriply/YASGUI) ⚠️ Archived - Yet Another Sparql GUI.
 * [d3sparql](https://github.com/ktym/d3sparql) ⭐ 192 | 🐛 11 | 🌐 HTML | 📅 2020-10-09 - JavaScript library for executing SPARQL query and transforming resulted JSON for visualization in D3.js.
 * [d3-sparql](https://github.com/zazuko/d3-sparql/) ⭐ 121 | 🐛 3 | 🌐 JavaScript | 📅 2019-05-10 - Query a SPARQL endpoint with a SELECT query and get the data ready to be used with d3js
@@ -847,7 +847,7 @@ OS - OpenSource
 
 ### C
 
-* [raptor](https://github.com/dajobe/raptor) ⭐ 174 | 🐛 13 | 🌐 C | 📅 2026-10-02 - Redland Raptor RDF syntax library.
+* [raptor](https://github.com/dajobe/raptor) ⭐ 174 | 🐛 13 | 🌐 C | 📅 2026-10-03 - Redland Raptor RDF syntax library.
 * [librdf](https://github.com/dajobe/librdf) ⭐ 105 | 🐛 7 | 🌐 C | 📅 2026-07-15 - Redland librdf RDF API and triple stores.
 * [serd](https://github.com/drobilla/serd) ⭐ 100 | 🐛 10 | 🌐 C | 📅 2026-07-15 - Lightweight C library for RDF syntax.
 * [rasqal](https://github.com/dajobe/rasqal) ⭐ 72 | 🐛 12 | 🌐 C | 📅 2026-07-15 - Redland Rasqal RDF Query Library.
@@ -993,7 +993,7 @@ OS - OpenSource
 
 ### Python
 
-* [RDFlib](https://github.com/RDFLib/rdflib) ⭐ 2,522 | 🐛 381 | 🌐 Python | 📅 2026-10-02 - A Python library for RDF manipulation, storage & serialization.
+* [RDFlib](https://github.com/RDFLib/rdflib) ⭐ 2,522 | 🐛 380 | 🌐 Python | 📅 2026-10-03 - A Python library for RDF manipulation, storage & serialization.
 * [AmpliGraph](https://github.com/Accenture/AmpliGraph) ⭐ 2,242 | 🐛 30 | 🌐 Python | 📅 2026-08-06 - Python library for Representation Learning on Knowledge Graphs.
 * [kglab](https://github.com/DerwenAI/kglab/) ⭐ 693 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2026-01-25 -  The kglab library provides a simple abstraction layer in Python for building knowledge graphs.
 * [SPARQLWrapper](https://github.com/RDFLib/sparqlwrapper) ⭐ 570 | 🐛 54 | 🌐 Python | 📅 2026-04-30 - A wrapper for a remote SPARQL endpoint.
@@ -1044,7 +1044,7 @@ OS - OpenSource
 * [Horned OWL](https://github.com/phillord/horned-owl) ⭐ 107 | 🐛 10 | 🌐 Rust | 📅 2026-10-01 - Horned-OWL is a library for manipulating OWL data.
 * [rio](https://github.com/oxigraph/rio) ⚠️ Archived - Rio is a low level library which provides conformant and fast parsers and formatters for RDF related file formats.
 * [rome](https://github.com/vandenoever/rome) ⭐ 72 | 🐛 5 | 🌐 Rust | 📅 2020-07-20 - Rome is an RDF library written in safe Rust.
-* [PurRDF](https://github.com/Blackcat-Informatics/purrdf) ⭐ 48 | 🐛 10 | 🌐 Rust | 📅 2026-10-02 - RDF 1.2 engine with SPARQL, SHACL, ShEx and entailment, exposing one identical behaviour in Rust, Python, WebAssembly and C.
+* [PurRDF](https://github.com/Blackcat-Informatics/purrdf) ⭐ 48 | 🐛 10 | 🌐 Rust | 📅 2026-10-03 - RDF 1.2 engine with SPARQL, SHACL, ShEx and entailment, exposing one identical behaviour in Rust, Python, WebAssembly and C.
 * [hdt-rs](https://github.com/KonradHoeffner/hdt) ⭐ 42 | 🐛 20 | 🌐 Rust | 📅 2026-09-30 - Read and query [HDT](https://www.rdfhdt.org/)
 * [rdf-rs](https://github.com/scholtzan/rdf-rs) ⭐ 30 | 🐛 2 | 🌐 Rust | 📅 2020-11-13 - rdf is a library for the Resource Description Framework (RDF) and SPARQL implemented in Rust.
 * [owlish](https://github.com/field33/owlish) ⭐ 23 | 🐛 1 | 🌐 Rust | 📅 2023-07-12 - An OWL library in Rust modeled on the OWL functional syntax.
@@ -1172,7 +1172,7 @@ OS - OpenSource
 
 ## IoT
 
-* [Weviate](https://github.com/creativesoftwarefdn/weaviate) ⭐ 16,860 | 🐛 797 | 🌐 Go | 📅 2026-10-02
+* [Weviate](https://github.com/creativesoftwarefdn/weaviate) ⭐ 16,859 | 🐛 798 | 🌐 Go | 📅 2026-10-02
 * [rdfagents](https://github.com/joshsh/rdfagents) ⭐ 6 | 🐛 1 | 🌐 Java | 📅 2016-07-23 - Real-time messaging for the Semantic Web.
 
 ## DevOps
@@ -1198,7 +1198,7 @@ OS - OpenSource
 * [comunica](https://github.com/comunica/comunica) ⭐ 611 | 🐛 82 | 🌐 TypeScript | 📅 2026-09-28 - Flexible meta query engine for the Web.
 * [rww-play](https://github.com/read-write-web/rww-play) ⚠️ Archived - An implementation in Play of a number of tools to build a Read-Write-Web server using Play2.x and akka.
 * [Wings](https://github.com/IKCAP/wings) ⭐ 51 | 🐛 76 | 🌐 Java | 📅 2024-08-19 - A workflow system.
-* [pyLDAPI](https://github.com/rdflib/pyLDAPI) ⭐ 43 | 🐛 10 | 🌐 Python | 📅 2025-01-18 - A Python [rdflib](https://github.com/rdflib/RDFlib/) ⭐ 2,522 | 🐛 381 | 🌐 Python | 📅 2026-10-02-based API framework for Linked Data via the W3C's [Content Negotiation by Profile](https://w3c.github.io/dx-connegp/connegp/)
+* [pyLDAPI](https://github.com/rdflib/pyLDAPI) ⭐ 43 | 🐛 10 | 🌐 Python | 📅 2025-01-18 - A Python [rdflib](https://github.com/rdflib/RDFlib/) ⭐ 2,522 | 🐛 380 | 🌐 Python | 📅 2026-10-03-based API framework for Linked Data via the W3C's [Content Negotiation by Profile](https://w3c.github.io/dx-connegp/connegp/)
 * [Chimera](https://github.com/cefriel/chimera) ⭐ 39 | 🐛 17 | 🌐 Java | 📅 2026-09-16 - A framework providing Apache Camel components to support data conversion to/from RDF and service integration with RDF graphs
 * [LDIF](https://github.com/wbsg/ldif) ⭐ 37 | 🐛 2 | 🌐 Scala | 📅 2016-08-02 - Linked Data Integration Framework.
 * [lodspeakr](https://github.com/alangrafu/lodspeakr) ⭐ 32 | 🐛 14 | 🌐 PHP | 📅 2013-12-23 - Framework to create Linked Data-based applications.
@@ -1212,7 +1212,7 @@ OS - OpenSource
 
 * [Widoco](https://github.com/dgarijo/Widoco) ⭐ 401 | 🐛 152 | 🌐 JavaScript | 📅 2026-10-01 - A Wizard for documenting and publishing ontologies on the Web.
 * [tawny-owl](https://github.com/phillord/tawny-owl) ⭐ 282 | 🐛 14 | 🌐 Clojure | 📅 2026-05-08 - Build OWL Ontologies in a Programmatic Environment.
-* [pyLODE](https://github.com/rdflib/pyLODE/) ⭐ 229 | 🐛 80 | 🌐 Python | 📅 2026-09-19 - A Python [rdflib](https://github.com/rdflib/RDFlib/) ⭐ 2,522 | 🐛 381 | 🌐 Python | 📅 2026-10-02-based implementation of the [LODE](http://ceur-ws.org/Vol-932/paper12.pdf) ontology documentation tool
+* [pyLODE](https://github.com/rdflib/pyLODE/) ⭐ 229 | 🐛 80 | 🌐 Python | 📅 2026-09-19 - A Python [rdflib](https://github.com/rdflib/RDFlib/) ⭐ 2,522 | 🐛 380 | 🌐 Python | 📅 2026-10-03-based implementation of the [LODE](http://ceur-ws.org/Vol-932/paper12.pdf) ontology documentation tool
 * [grlc](https://github.com/CLARIAH/grlc) ⭐ 151 | 🐛 36 | 🌐 Python | 📅 2026-10-01 - Web APIs from SPARQL queries.
 * [Web-Client](https://github.com/AtomGraph/Web-Client) ⭐ 123 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-29 - Generic Linked Data browser and UX component framework.
 * [OnToology](https://github.com/OnToology/OnToology) ⭐ 115 | 🐛 85 | 🌐 Python | 📅 2026-06-11 - A system for collaborative ontology development. Given a GitHub repository with an OWL file, OnToology will survey it and produce diagrams, a complete documentation and validation based on common pitfalls.
@@ -1246,7 +1246,7 @@ OS - OpenSource
 * [MEL](https://w3id.org/kgcp/MEL-TNNT/) - (*Metadata Extractor & Loader*) - A tool to extract metadata (and textual content) from various file formats, as JSON objects.
 * [RDF Playground](https://rdfplayground.dcc.uchile.cl/) - Browser based aggregation of multiple semantic web tools, includes syntax validation, visualization, reasoner and shacl validation
 
-- [Qlue-ls](https://github.com/IoannisNezis/Qlue-ls) ⭐ 49 | 🐛 12 | 🌐 Rust | 📅 2026-09-30 - A powerfull SPARQL language server and formatter. Providing: auto-completion, hover-info, formatting, code-actions, diagnostics and more.
+- [Qlue-ls](https://github.com/IoannisNezis/Qlue-ls) ⭐ 49 | 🐛 13 | 🌐 Rust | 📅 2026-10-03 - A powerfull SPARQL language server and formatter. Providing: auto-completion, hover-info, formatting, code-actions, diagnostics and more.
 - [rdfless](https://github.com/larsw/rdfless/) ⭐ 8 | 🐛 2 | 🌐 Rust | 📅 2026-09-22 - A pager and pretty-printer for Turtle/TriG/N-triples and N-Quads written in Rust.
 - [Semantic Web LSP](https://github.com/ajuvercr/semantic-web-lsp) ⭐ 1 | 🐛 0 | 🌐 HTML | 📅 2025-09-23 - A language server for Semantic Web files, featuring SHACL shapes diagnostics, Turtle formatting, hover hints and descriptions, and completions for prefixes, properties, and classes.
 - [KGPrune](https://kgprune.loria.fr/) - An API and Web application for extracting subgraphs of interest from Wikidata based on user-input seed entities, to bootstrap new KGs or support knowledge extraction, or knowledge mining approaches
