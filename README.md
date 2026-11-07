@@ -256,7 +256,7 @@ Companies or businesses selling products with a primary focus on semantic web te
 
 ## RDF Tripe Stores
 
-* [See list of RDF Triple Store propducts](https://github.com/graphgeeks-lab/awesome-graph-universe?tab=readme-ov-file#triple-stores-rdf-databases) ⭐ 170 | 🐛 8 | 📅 2026-09-26
+* [See list of RDF Triple Store propducts](https://github.com/graphgeeks-lab/awesome-graph-universe?tab=readme-ov-file#triple-stores-rdf-databases) ⭐ 170 | 🐛 9 | 📅 2026-09-26
 
 ## Industry
 
@@ -323,11 +323,11 @@ $ - Proprietary
 OS - OpenSource
 F - Free
 
-* [TerminusDB](https://github.com/terminusdb/terminusdb) ⭐ 3,471 | 🐛 9 | 🌐 Prolog | 📅 2026-11-04 - (OS) Knowledge graph database with git-like version control. Branch, merge and diff any commit.
+* [TerminusDB](https://github.com/terminusdb/terminusdb) ⭐ 3,472 | 🐛 12 | 🌐 Prolog | 📅 2026-11-06 - (OS) Knowledge graph database with git-like version control. Branch, merge and diff any commit.
 * [Oxigraph](https://github.com/oxigraph/oxigraph) ⭐ 2,024 | 🐛 166 | 🌐 Rust | 📅 2026-11-05 - (OS) a graph database implementing the SPARQL standard and written in Rust.
 * [Akutan](https://github.com/eBay/akutan) ⚠️ Archived - (OS) A distributed knowledge graph store written in Golang. Formerly known as Beam.
 * [levelgraph](https://github.com/levelgraph/levelgraph) ⭐ 1,517 | 🐛 49 | 🌐 JavaScript | 📅 2024-05-28 - (OS) Graph database JS style for Node.js and the Browser.
-* [QLever](https://github.com/ad-freiburg/qlever) ⭐ 938 | 🐛 420 | 🌐 C++ | 📅 2026-11-06 - (OS) a SPARQL engine that can efficiently index and query very large knowledge graphs with over a trillion triples on a single standard PC or server
+* [QLever](https://github.com/ad-freiburg/qlever) ⭐ 939 | 🐛 425 | 🌐 C++ | 📅 2026-11-06 - (OS) a SPARQL engine that can efficiently index and query very large knowledge graphs with over a trillion triples on a single standard PC or server
 * [gStore](https://github.com/pkumod/gStore) ⭐ 842 | 🐛 60 | 🌐 C++ | 📅 2026-04-09 - (OS) - a graph based RDF triple store.
 * [4Store](https://github.com/garlik/4store) ⭐ 299 | 🐛 50 | 🌐 C | 📅 2024-05-10 - (OS).
 * [MillenniumDB](https://github.com/MillenniumDB/MillenniumDB) ⭐ 267 | 🐛 2 | 🌐 C++ | 📅 2026-09-30 - (OS)
@@ -338,7 +338,7 @@ F - Free
 * [Halyard](https://github.com/Merck/Halyard) ⭐ 114 | 🐛 24 | 🌐 Java | 📅 2023-01-23 - (OS).
 * [qEndpoint](https://github.com/the-qa-company/qEndpoint) ⭐ 109 | 🐛 72 | 🌐 Java | 📅 2026-03-18 - (OS) A highly scalable RDF triple store with full-text and GeoSPARQL support.
 * [Tentris](https://github.com/dice-group/tentris) ⭐ 69 | 🐛 0 | 🌐 C++ | 📅 2026-10-20 - (OS) A tensor-optimized RDF data store, supporting SPARQL queries with Basic Graph Pattern capabilities.
-* [Parliament](https://github.com/SemWebCentral/parliament) ⭐ 67 | 🐛 3 | 🌐 Java | 📅 2026-11-05 - (OS).
+* [Parliament](https://github.com/SemWebCentral/parliament) ⭐ 67 | 🐛 3 | 🌐 Java | 📅 2026-11-06 - (OS).
 * [redstore](https://github.com/njh/redstore) ⭐ 65 | 🐛 6 | 🌐 C | 📅 2021-07-29 - (OS) RedStore is a lightweight RDF triplestore written in C using the Redland library.
 * [ostrich](https://github.com/rdfostrich/ostrich) ⭐ 52 | 🐛 4 | 🌐 C++ | 📅 2025-08-21 - (OS) bird Versioned RDF triple store (Offset-enabled TRIple store for CHangesets).
 * [kineo](https://github.com/kasei/kineo/) ⭐ 40 | 🐛 0 | 🌐 Swift | 📅 2026-08-18 - (OS) A persistent RDF quadstore and SPARQL engine.
@@ -360,7 +360,7 @@ F - Free
   * [docker-blazegraph](https://github.com/zorino/docker-blazegraph) ⭐ 0 | 🐛 0 | 🌐 Shell | 📅 2016-02-09
   * [blazegraph-service](https://github.com/vastix/blazegraph-service)
 * [Virtuoso](https://virtuoso.openlinksw.com/) - ($/OS).
-  * [virtuoso-opensource](https://github.com/openlink/virtuoso-opensource) ⭐ 977 | 🐛 679 | 🌐 C | 📅 2026-11-05
+  * [virtuoso-opensource](https://github.com/openlink/virtuoso-opensource) ⭐ 978 | 🐛 678 | 🌐 C | 📅 2026-11-06
 * [Oracle](http://www.oracle.com/technetwork/database/options/spatialandgraph/overview/rdfsemantic-more-2239071.html) - ($).
 * [Allegrograph](http://franz.com/agraph/allegrograph/) - ($/F).
 * [BrightstarDB](http://brightstardb.com/) - (OS) A native RDF database for the .NET platform written in C#.
@@ -425,7 +425,7 @@ F - Free
 
 ACTIVE
 
-* [HeFQUIN](https://github.com/LiUSemWeb/HeFQUIN) ⭐ 35 | 🐛 47 | 🌐 Java | 📅 2026-11-05 - A query federation engine for heterogeneous federations of graph data sources.
+* [HeFQUIN](https://github.com/LiUSemWeb/HeFQUIN) ⭐ 35 | 🐛 48 | 🌐 Java | 📅 2026-11-05 - A query federation engine for heterogeneous federations of graph data sources.
 * [CostFed](https://github.com/dice-group/CostFed) ⭐ 19 | 🐛 12 | 🌐 Java | 📅 2023-08-04
 * [luposdate](https://github.com/luposdate/luposdate) ⭐ 19 | 🐛 6 | 🌐 Java | 📅 2022-09-01 - A Semantic Web Database Management System developed by IFIS at the University of Lübeck.
 * [ANAPSID](https://github.com/anapsid/anapsid) ⭐ 17 | 🐛 2 | 🌐 Python | 📅 2017-09-13
@@ -446,11 +446,11 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 ### SPARQL Applications
 
-* [QLever](https://github.com/ad-freiburg/QLever) ⭐ 938 | 🐛 420 | 🌐 C++ | 📅 2026-11-06 - Highly efficient query engine for SPARQL+Text.
+* [QLever](https://github.com/ad-freiburg/QLever) ⭐ 939 | 🐛 425 | 🌐 C++ | 📅 2026-11-06 - Highly efficient query engine for SPARQL+Text.
 * [YASGUI Triply fork](https://github.com/OpenTriply/YASGUI) ⚠️ Archived - Yet Another Sparql GUI.
 * [d3sparql](https://github.com/ktym/d3sparql) ⭐ 192 | 🐛 11 | 🌐 HTML | 📅 2020-10-09 - JavaScript library for executing SPARQL query and transforming resulted JSON for visualization in D3.js.
 * [d3-sparql](https://github.com/zazuko/d3-sparql/) ⭐ 121 | 🐛 3 | 🌐 JavaScript | 📅 2019-05-10 - Query a SPARQL endpoint with a SELECT query and get the data ready to be used with d3js
-* [Trifid](https://github.com/zazuko/trifid) ⭐ 102 | 🐛 22 | 🌐 TypeScript | 📅 2026-11-05 - Lightweight Linked Data Server and Proxy
+* [Trifid](https://github.com/zazuko/trifid) ⭐ 102 | 🐛 18 | 🌐 TypeScript | 📅 2026-11-06 - Lightweight Linked Data Server and Proxy
 * [AutoSPARQL](https://github.com/AKSW/AutoSPARQL) ⭐ 98 | 🐛 15 | 🌐 Java | 📅 2023-09-05
 * [pubby](https://github.com/cygri/pubby) ⚠️ Archived - A Linked Data frontend for SPARQL endpoints.
 * [SNORQL](https://github.com/kurtjx/SNORQL) ⭐ 73 | 🐛 4 | 🌐 JavaScript | 📅 2016-04-01 - Ajaxy front-end for exploring triple stores.
@@ -459,7 +459,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 * [Sparklis](https://github.com/sebferre/sparklis) ⭐ 53 | 🐛 3 | 🌐 OCaml | 📅 2025-08-09 - natural language query builder to explore and query endpoints with all the power of SPARQL yet without any knowledge of SPARQL.
 * [FlintSparqlEditor](https://github.com/TSO-Openup/FlintSparqlEditor) ⭐ 51 | 🐛 5 | 🌐 JavaScript | 📅 2012-10-16
 * [sparql-transformer](https://github.com/D2KLab/sparql-transformer) ⭐ 47 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-13 - A generic JSON-LD transformer.
-* [MatGUI](https://github.com/Matdata-eu/MatGUI) ⭐ 47 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-03 - A modern knowledge graph and SPARQL workbench (advanced YasGUI fork)
+* [MatGUI](https://github.com/Matdata-eu/MatGUI) ⭐ 47 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-06 - A modern knowledge graph and SPARQL workbench (advanced YasGUI fork)
 * [sparql-transformer](https://github.com/D2KLab/sparql-transformer) ⭐ 47 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-13
 * [SPARQL2NL](https://github.com/AKSW/SPARQL2NL) ⭐ 45 | 🐛 8 | 🌐 Java | 📅 2016-03-09
 * [sage-engine](https://github.com/sage-org/sage-engine) ⭐ 45 | 🐛 2 | 🌐 Python | 📅 2024-10-03 - a SPARQL query engine for public Linked Data providers.
@@ -528,8 +528,8 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 ## Linked Data Fragments
 
-* [LDFlex](https://github.com/RubenVerborgh/LDflex) ⭐ 196 | 🐛 39 | 🌐 JavaScript | 📅 2026-10-26 - A JavaScript DSL for querying Linked Data on the Web.
-* [HeFQUIN](https://github.com/LiUSemWeb/HeFQUIN) ⭐ 35 | 🐛 47 | 🌐 Java | 📅 2026-11-05 - A query federation engine for heterogeneous federations of graph data sources.
+* [LDFlex](https://github.com/RubenVerborgh/LDflex) ⭐ 196 | 🐛 39 | 🌐 JavaScript | 📅 2026-11-06 - A JavaScript DSL for querying Linked Data on the Web.
+* [HeFQUIN](https://github.com/LiUSemWeb/HeFQUIN) ⭐ 35 | 🐛 48 | 🌐 Java | 📅 2026-11-05 - A query federation engine for heterogeneous federations of graph data sources.
 * [tomayac/ldf-client](https://github.com/tomayac/ldf-client) ⭐ 18 | 🐛 0 | 🌐 HTML | 📅 2016-07-31 - Polymer Linked Data Fragments client.
 * [Linked Data Fragments](http://linkeddatafragments.org/)
 * [comunica](http://comunica.linkeddatafragments.org/) - A modular framework for querying Linked Data on the Web.
@@ -644,7 +644,7 @@ OS - OpenSource
 ### Object to RDF Mapping
 
 * [Empire](https://github.com/mhgrove/Empire/) ⭐ 102 | 🐛 29 | 🌐 Java | 📅 2020-03-26 - JPA implementation for RDF
-* [JOPA](https://github.com/kbss-cvut/jopa) ⭐ 45 | 🐛 23 | 🌐 Java | 📅 2026-11-04 - A Java object-triple mapping library for RDF4J, Jena and OWL API.
+* [JOPA](https://github.com/kbss-cvut/jopa) ⭐ 45 | 🐛 23 | 🌐 Java | 📅 2026-11-06 - A Java object-triple mapping library for RDF4J, Jena and OWL API.
 * [Pinto](https://github.com/stardog-union/pinto) ⭐ 44 | 🐛 18 | 🌐 Java | 📅 2019-12-13 - A lightweight framework for mapping Java Beans into RDF and back again
 * [surfrdf](https://github.com/cosminbasca/surfrdf) ⭐ 44 | 🐛 21 | 🌐 Python | 📅 2021-10-22 - SuRF: a python Object RDF Mapper (ORM).
 * [PA4RDF](https://github.com/Claudenw/PA4RDF) ⭐ 14 | 🐛 4 | 🌐 Java | 📅 2026-08-19 - functionality on top of an RDF store while accounting for and exploiting the fundamental differences between graph storage and relational storage.
@@ -667,7 +667,7 @@ OS - OpenSource
 
 ### RDF to Property Graphs
 
-* [sparql-gremlin](https://github.com/apache/tinkerpop/tree/master/sparql-gremlin) ⭐ 2,155 | 🐛 34 | 🌐 Java | 📅 2026-11-05 - SPARQL to Gremlin Translator available as a plugin of the popular Apache TinkerPop graph computing framework.
+* [sparql-gremlin](https://github.com/apache/tinkerpop/tree/master/sparql-gremlin) ⭐ 2,155 | 🐛 34 | 🌐 Java | 📅 2026-11-06 - SPARQL to Gremlin Translator available as a plugin of the popular Apache TinkerPop graph computing framework.
 * [Gremlinator](https://github.com/LITMUS-Benchmark-Suite/sparql-to-gremlin/) ⭐ 90 | 🐛 3 | 🌐 HTML | 📅 2021-04-26 - SPARQL to Gremlin standalone Translator available as an independent implementation for open use in custom use cases.
 
 ### XML
@@ -676,7 +676,7 @@ OS - OpenSource
 
 #### R2RML
 
-* [ontop](https://github.com/ontop/ontop) ⭐ 1,014 | 🐛 119 | 🌐 Java | 📅 2026-11-04 - Ontop is a platform to query relational databases as Virtual RDF Graphs using SPARQL. It's fast and is packed with features.
+* [ontop](https://github.com/ontop/ontop) ⭐ 1,015 | 🐛 119 | 🌐 Java | 📅 2026-11-04 - Ontop is a platform to query relational databases as Virtual RDF Graphs using SPARQL. It's fast and is packed with features.
 * [Morph-KGC](https://github.com/oeg-upm/morph-kgc) ⭐ 300 | 🐛 31 | 🌐 Python | 📅 2026-10-15 - An R2RML engine that creates large knowledge graphs from RDB.
 * [RMLMapper](https://github.com/RMLio/rmlmapper-java) ⭐ 205 | 🐛 65 | 🌐 Java | 📅 2026-02-17 - Java-based RML Processor backwards compatible with R2RML.
 * [R2RML-Parser](https://github.com/nkons/r2rml-parser) ⭐ 74 | 🐛 19 | 🌐 Java | 📅 2022-06-21 - An R2RML implementation that can export relational database contents as RDF graphs.
@@ -715,8 +715,8 @@ OS - OpenSource
 
 #### Other RDF Mappings
 
-* [SPARQL Anything](https://github.com/SPARQL-Anything/sparql.anything) ⭐ 311 | 🐛 71 | 🌐 Java | 📅 2026-11-05 - A system for Semantic Web [re-engineering](https://arxiv.org/pdf/2106.02361.pdf) that allows users to query anything with SPARQL.
-* [sparql-generate](https://github.com/sparql-generate/sparql-generate) ⭐ 71 | 🐛 22 | 🌐 HTML | 📅 2026-11-02
+* [SPARQL Anything](https://github.com/SPARQL-Anything/sparql.anything) ⭐ 311 | 🐛 71 | 🌐 Java | 📅 2026-11-06 - A system for Semantic Web [re-engineering](https://arxiv.org/pdf/2106.02361.pdf) that allows users to query anything with SPARQL.
+* [sparql-generate](https://github.com/sparql-generate/sparql-generate) ⭐ 71 | 🐛 22 | 🌐 HTML | 📅 2026-11-06
 * [mapping-template](https://github.com/cefriel/mapping-template) ⭐ 9 | 🐛 17 | 🌐 Java | 📅 2026-10-19 - A template-based component exploiting Apache Velocity to define mappings to/from RDF.
 * [any23](https://any23.apache.org/) - was "[moved into the Attic in 2023-06](https://attic.apache.org/projects/any23.html)"
 * [J2RM](https://w3id.org/kgcp/J2RM/) - A tool to process mappings from JSON data to RDF triples guided by an OWL2 ontology structure.
@@ -794,8 +794,8 @@ OS - OpenSource
 
 ## Ontology Development
 
-* [Ontology Development Kit](https://github.com/INCATools/ontology-development-kit/) ⭐ 389 | 🐛 71 | 🌐 Dockerfile | 📅 2026-11-02 - set up a git repo for developing an ontology
-* [LinkML-Scala](https://github.com/NeverBlink-OSS/linkml-scala) ⭐ 62 | 🐛 11 | 🌐 Scala | 📅 2026-11-05 – fast, portable (JS/JVM/native), and robust implementation of [LinkML](https://linkml.io/).
+* [Ontology Development Kit](https://github.com/INCATools/ontology-development-kit/) ⭐ 391 | 🐛 70 | 🌐 Dockerfile | 📅 2026-11-06 - set up a git repo for developing an ontology
+* [LinkML-Scala](https://github.com/NeverBlink-OSS/linkml-scala) ⭐ 62 | 🐛 13 | 🌐 Scala | 📅 2026-11-06 – fast, portable (JS/JVM/native), and robust implementation of [LinkML](https://linkml.io/).
 * [Mobi](https://mobi.inovexcorp.com) - [Open Source](https://github.com/inovexcorp/mobi) ⭐ 55 | 🐛 13 | 🌐 Java | 📅 2026-07-09 (with an optional Enterprise version) system for developing ontologies and skos ocabularies with native graph versioning that enables a git-inspired workflow. More info [here](https://inovexcorp.github.io/mobi-docs/).
 * [dosdp-tools](https://github.com/INCATools/dosdp-tools/) ⭐ 33 | 🐛 42 | 🌐 Scala | 📅 2026-05-21 - dead simple owl design patterns (template tool)
 * [OWLSharp](https://github.com/mdesalvo/OWLSharp) ⭐ 16 | 🐛 0 | 🌐 C# | 📅 2026-10-28 - .NET library for OWL2-DL ontology modeling, validation and reasoning
@@ -819,6 +819,8 @@ OS - OpenSource
 * [ELK](https://github.com/liveontologies/elk-reasoner) ⭐ 129 | 🐛 24 | 🌐 Java | 📅 2026-06-13
 * [HyLAR](https://github.com/ucbl/HyLAR-Reasoner) ⭐ 65 | 🐛 13 | 🌐 JavaScript | 📅 2023-03-04
 * [Whelk](https://github.com/balhoff/whelk) ⭐ 47 | 🐛 12 | 🌐 Scala | 📅 2026-10-24
+* [owl-reasoner-list](https://github.com/k00ni/owl-reasoner-list) ⭐ 30 | 🐛 0 | 🌐 TeX | 📅 2024-12-13 - Comprehensive list of reasoners including maintenance status as of 2024
+* [Manchester List of Reasoners](http://owl.cs.manchester.ac.uk/tools/list-of-reasoners/) - Last updated 2018, see <https://github.com/k00ni/owl-reasoner-list> ⭐ 30 | 🐛 0 | 🌐 TeX | 📅 2024-12-13 for a more recent list
 * [cel](https://github.com/julianmendez/cel) ⭐ 23 | 🐛 2 | 🌐 Common Lisp | 📅 2026-04-24 -A lightweight Description Logic reasoner for large-scale biomedical ontologies.
 * [ruby-rdf/rdf-reasoner](https://github.com/ruby-rdf/rdf-reasoner) ⭐ 19 | 🐛 1 | 🌐 Ruby | 📅 2024-01-08
 * [FaCT++](https://github.com/ethz-asl/libfactplusplus) ⚠️ Archived and [pyfactxx](https://github.com/tilde-lab/pyfactxx) ⭐ 31 | 🐛 9 | 🌐 Java | 📅 2026-10-02
@@ -827,7 +829,6 @@ OS - OpenSource
 * [owlproofs](https://github.com/klinovp/owlproofs) ⭐ 0 | 🐛 0 | 🌐 Java | 📅 2014-10-14 - Extension to the OWL API to request proofs of entailments from the reasoner.
 * [HermiT](http://www.hermit-reasoner.com/)
 * [RacerPro](https://franz.com/agraph/racer/)
-* [Manchester List of Reasoners](http://owl.cs.manchester.ac.uk/tools/list-of-reasoners/)
 * [konclude](http://www.derivo.de/en/produkte/konclude.html) - Konclude is a high-performance reasoner for large and expressive ontologies.
 * [rdf-reasoner-konclude](https://www.npmjs.com/package/rdf-reasoner-konclude) - Konclude OWL-DL tableau reasoning kernel compiled to WebAssembly. Runs in browsers and Node.js; async TypeScript API with RDF.js Quad types and N3.js Store integration.
 
@@ -982,7 +983,7 @@ OS - OpenSource
 * [ARC2](https://github.com/semsol/arc2/wiki) ⭐ 331 | 🐛 39 | 🌐 PHP | 📅 2026-03-21
 * [PHP-SPARQL-Lib](https://github.com/cgutteridge/PHP-SPARQL-Lib) ⭐ 19 | 🐛 0 | 🌐 PHP | 📅 2025-12-23
 * [EasyRdf](http://www.easyrdf.org/) - abandoned by the author
-  * [sweetrdf/easyrdf](https://github.com/sweetrdf/easyrdf) ⭐ 26 | 🐛 7 | 🌐 PHP | 📅 2026-11-02 - Maintained fork, fully compatible to EasyRdf v1.x, runs on latest PHP versions.
+  * [sweetrdf/easyrdf](https://github.com/sweetrdf/easyrdf) ⭐ 26 | 🐛 8 | 🌐 PHP | 📅 2026-11-02 - Maintained fork, fully compatible to EasyRdf v1.x, runs on latest PHP versions.
 * [Graphite](http://graphite.ecs.soton.ac.uk/)
 * [sparqllib](http://graphite.ecs.soton.ac.uk/sparqllib/)
 * sweetrdf - Collection of RDF-libraries using modern PHP functionality
@@ -999,7 +1000,7 @@ OS - OpenSource
 
 ### Python
 
-* [RDFlib](https://github.com/RDFLib/rdflib) ⭐ 2,547 | 🐛 375 | 🌐 Python | 📅 2026-11-04 - A Python library for RDF manipulation, storage & serialization.
+* [RDFlib](https://github.com/RDFLib/rdflib) ⭐ 2,548 | 🐛 375 | 🌐 Python | 📅 2026-11-04 - A Python library for RDF manipulation, storage & serialization.
 * [AmpliGraph](https://github.com/Accenture/AmpliGraph) ⭐ 2,244 | 🐛 31 | 🌐 Python | 📅 2026-10-23 - Python library for Representation Learning on Knowledge Graphs.
 * [kglab](https://github.com/DerwenAI/kglab/) ⭐ 695 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2026-01-25 -  The kglab library provides a simple abstraction layer in Python for building knowledge graphs.
 * [SPARQLWrapper](https://github.com/RDFLib/sparqlwrapper) ⭐ 570 | 🐛 54 | 🌐 Python | 📅 2026-04-30 - A wrapper for a remote SPARQL endpoint.
@@ -1051,7 +1052,7 @@ OS - OpenSource
 * [Horned OWL](https://github.com/phillord/horned-owl) ⭐ 111 | 🐛 29 | 🌐 Rust | 📅 2026-11-03 - Horned-OWL is a library for manipulating OWL data.
 * [rio](https://github.com/oxigraph/rio) ⚠️ Archived - Rio is a low level library which provides conformant and fast parsers and formatters for RDF related file formats.
 * [rome](https://github.com/vandenoever/rome) ⭐ 72 | 🐛 5 | 🌐 Rust | 📅 2020-07-20 - Rome is an RDF library written in safe Rust.
-* [PurRDF](https://github.com/Blackcat-Informatics/purrdf) ⭐ 54 | 🐛 25 | 🌐 Rust | 📅 2026-11-06 - RDF 1.2 engine with SPARQL, SHACL, ShEx and entailment, exposing one identical behaviour in Rust, Python, WebAssembly and C.
+* [PurRDF](https://github.com/Blackcat-Informatics/purrdf) ⭐ 54 | 🐛 78 | 🌐 Rust | 📅 2026-11-07 - RDF 1.2 engine with SPARQL, SHACL, ShEx and entailment, exposing one identical behaviour in Rust, Python, WebAssembly and C.
 * [hdt-rs](https://github.com/KonradHoeffner/hdt) ⭐ 43 | 🐛 16 | 🌐 Rust | 📅 2026-11-04 - Read and query [HDT](https://www.rdfhdt.org/)
 * [rdf-rs](https://github.com/scholtzan/rdf-rs) ⭐ 30 | 🐛 2 | 🌐 Rust | 📅 2020-11-13 - rdf is a library for the Resource Description Framework (RDF) and SPARQL implemented in Rust.
 * [owlish](https://github.com/field33/owlish) ⭐ 23 | 🐛 1 | 🌐 Rust | 📅 2023-07-12 - An OWL library in Rust modeled on the OWL functional syntax.
@@ -1132,7 +1133,7 @@ OS - OpenSource
 
 ## Visualization
 
-* [Sparnatural](https://github.com/sparna-git/Sparnatural) ⭐ 315 | 🐛 102 | 🌐 TypeScript | 📅 2026-11-05
+* [Sparnatural](https://github.com/sparna-git/Sparnatural) ⭐ 315 | 🐛 102 | 🌐 TypeScript | 📅 2026-11-06
 * [ontodia](https://github.com/ontodia-org/ontodia) ⚠️ Archived - Ontodia data diagraming library.
 * [Ontology Visualisation](https://github.com/usc-isi-i2/ontology-visualization) ⭐ 145 | 🐛 15 | 🌐 Python | 📅 2022-09-20 - Create graphs from RDF using GraphViz.
 * [d3-sparql](https://github.com/zazuko/d3-sparql) ⭐ 121 | 🐛 3 | 🌐 JavaScript | 📅 2019-05-10
@@ -1143,7 +1144,7 @@ OS - OpenSource
 * [metabase-sparql-driver](https://github.com/jhisse/metabase-sparql-driver) ⭐ 16 | 🐛 0 | 🌐 Clojure | 📅 2026-11-02 - Build charts and dashboards from any SPARQL endpoint in Metabase, using its visual query builder or native SPARQL queries.
 * [gephi-semantic-web-import](https://github.com/Wimmics/gephi-semantic-web-import) ⭐ 7 | 🐛 4 | 🌐 Java | 📅 2024-11-18
 * [rdfdot](https://github.com/wastl/rdfdot) ⭐ 4 | 🐛 1 | 🌐 Java | 📅 2016-03-08 - Tools for drawing graphs from RDF files with GraphViz.
-* [ttl3d](https://github.com/soheilabadifard/TTL_to_3D) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2026-11-03 - Turns RDF files or a SPARQL CONSTRUCT result into one self-contained HTML page with 3D and 2D graph views, legend filters and node cards; slices large graphs and works offline.
+* [ttl3d](https://github.com/soheilabadifard/TTL_to_3D) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2026-11-03 - Turns RDF files or a SPARQL CONSTRUCT result into one self-contained HTML page with 3D and 2D graph views, legend filters and node cards; slices large graphs and works offline.
 * [yasgui-graph-plugin](https://github.com/Matdata-eu/yasgui-graph-plugin) ⭐ 1 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-27 - Shows CONSTRUCT and DESCRIBE results as an interactive node-link graph in MatGUI and YASGUI.
 * [yasgui-chart-plugin](https://github.com/Matdata-eu/yasgui-chart-plugin) ⭐ 0 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-01 - Turns SELECT results into bar, line, area, pie, scatter or histogram charts in MatGUI and YASGUI, picking a fitting chart automatically.
 * [Visual SPARQL Builder](https://leipert.github.io/vsb/)
@@ -1184,7 +1185,7 @@ OS - OpenSource
 
 ## IoT
 
-* [Weviate](https://github.com/creativesoftwarefdn/weaviate) ⭐ 16,940 | 🐛 843 | 🌐 Go | 📅 2026-11-06
+* [Weviate](https://github.com/creativesoftwarefdn/weaviate) ⭐ 16,940 | 🐛 844 | 🌐 Go | 📅 2026-11-06
 * [rdfagents](https://github.com/joshsh/rdfagents) ⭐ 6 | 🐛 1 | 🌐 Java | 📅 2016-07-23 - Real-time messaging for the Semantic Web.
 
 ## DevOps
@@ -1208,10 +1209,10 @@ OS - OpenSource
 
 ## Platforms
 
-* [comunica](https://github.com/comunica/comunica) ⭐ 620 | 🐛 80 | 🌐 TypeScript | 📅 2026-11-05 - Flexible meta query engine for the Web.
+* [comunica](https://github.com/comunica/comunica) ⭐ 621 | 🐛 77 | 🌐 TypeScript | 📅 2026-11-06 - Flexible meta query engine for the Web.
 * [rww-play](https://github.com/read-write-web/rww-play) ⚠️ Archived - An implementation in Play of a number of tools to build a Read-Write-Web server using Play2.x and akka.
 * [Wings](https://github.com/IKCAP/wings) ⭐ 51 | 🐛 76 | 🌐 Java | 📅 2024-08-19 - A workflow system.
-* [pyLDAPI](https://github.com/rdflib/pyLDAPI) ⭐ 43 | 🐛 10 | 🌐 Python | 📅 2025-01-18 - A Python [rdflib](https://github.com/rdflib/RDFlib/) ⭐ 2,547 | 🐛 375 | 🌐 Python | 📅 2026-11-04-based API framework for Linked Data via the W3C's [Content Negotiation by Profile](https://w3c.github.io/dx-connegp/connegp/)
+* [pyLDAPI](https://github.com/rdflib/pyLDAPI) ⭐ 43 | 🐛 10 | 🌐 Python | 📅 2025-01-18 - A Python [rdflib](https://github.com/rdflib/RDFlib/) ⭐ 2,548 | 🐛 375 | 🌐 Python | 📅 2026-11-04-based API framework for Linked Data via the W3C's [Content Negotiation by Profile](https://w3c.github.io/dx-connegp/connegp/)
 * [Chimera](https://github.com/cefriel/chimera) ⭐ 41 | 🐛 18 | 🌐 Java | 📅 2026-10-19 - A framework providing Apache Camel components to support data conversion to/from RDF and service integration with RDF graphs
 * [LDIF](https://github.com/wbsg/ldif) ⭐ 37 | 🐛 2 | 🌐 Scala | 📅 2016-08-02 - Linked Data Integration Framework.
 * [lodspeakr](https://github.com/alangrafu/lodspeakr) ⭐ 32 | 🐛 14 | 🌐 PHP | 📅 2013-12-23 - Framework to create Linked Data-based applications.
@@ -1225,13 +1226,13 @@ OS - OpenSource
 
 * [Widoco](https://github.com/dgarijo/Widoco) ⭐ 407 | 🐛 138 | 🌐 JavaScript | 📅 2026-11-02 - A Wizard for documenting and publishing ontologies on the Web.
 * [tawny-owl](https://github.com/phillord/tawny-owl) ⭐ 282 | 🐛 14 | 🌐 Clojure | 📅 2026-05-08 - Build OWL Ontologies in a Programmatic Environment.
-* [pyLODE](https://github.com/rdflib/pyLODE/) ⭐ 233 | 🐛 83 | 🌐 Python | 📅 2026-10-25 - A Python [rdflib](https://github.com/rdflib/RDFlib/) ⭐ 2,547 | 🐛 375 | 🌐 Python | 📅 2026-11-04-based implementation of the [LODE](http://ceur-ws.org/Vol-932/paper12.pdf) ontology documentation tool
+* [pyLODE](https://github.com/rdflib/pyLODE/) ⭐ 233 | 🐛 82 | 🌐 Python | 📅 2026-11-06 - A Python [rdflib](https://github.com/rdflib/RDFlib/) ⭐ 2,548 | 🐛 375 | 🌐 Python | 📅 2026-11-04-based implementation of the [LODE](http://ceur-ws.org/Vol-932/paper12.pdf) ontology documentation tool
 * [grlc](https://github.com/CLARIAH/grlc) ⭐ 151 | 🐛 36 | 🌐 Python | 📅 2026-10-01 - Web APIs from SPARQL queries.
 * [Web-Client](https://github.com/AtomGraph/Web-Client) ⭐ 123 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-04 - Generic Linked Data browser and UX component framework.
 * [OnToology](https://github.com/OnToology/OnToology) ⭐ 117 | 🐛 85 | 🌐 Python | 📅 2026-06-11 - A system for collaborative ontology development. Given a GitHub repository with an OWL file, OnToology will survey it and produce diagrams, a complete documentation and validation based on common pitfalls.
 * [ripple](https://github.com/joshsh/ripple) ⭐ 106 | 🐛 47 | 🌐 Java | 📅 2023-04-14 - Semantic Web scripting language.
 * [HydraConsole](https://github.com/lanthaler/HydraConsole) ⭐ 103 | 🐛 20 | 🌐 PHP | 📅 2018-04-01
-* [schema\_salad](https://github.com/common-workflow-language/schema_salad) ⭐ 86 | 🐛 94 | 🌐 Python | 📅 2026-11-05 - Semantic Annotations for Linked Avro Data.
+* [schema\_salad](https://github.com/common-workflow-language/schema_salad) ⭐ 86 | 🐛 92 | 🌐 Python | 📅 2026-11-06 - Semantic Annotations for Linked Avro Data.
 * [rpt](https://github.com/SmartDataAnalytics/RdfProcessingToolkit) ⭐ 51 | 🐛 34 | 🌐 Java | 📅 2026-10-30 - Command line interface based RDF Processing Toolkit to run sequences of SPARQL statements ad-hoc on RDF datasets with a lot of features
 * [OBA](https://github.com/KnowledgeCaptureAndDiscovery/OBA/) ⭐ 45 | 🐛 56 | 🌐 HTML | 📅 2026-03-01 - Automatically create OpenAPI specifications from OWL and launch a server that serves JSON objects according to your ontology.
 * [prefix.cc](https://github.com/cygri/prefix.cc) ⭐ 41 | 🐛 21 | 🌐 PHP | 📅 2022-03-10 - Source code to the prefix.cc website.
@@ -1242,7 +1243,7 @@ OS - OpenSource
 * [n3pygments](https://github.com/gniezen/n3pygments) ⭐ 23 | 🐛 3 | 🌐 Python | 📅 2015-04-15 - Pygments lexer to perform syntax highlighting for N3, Turtle and SPARQL.
 * [UnSHACLed](https://github.com/KNowledgeOnWebScale/unshacled) ⭐ 21 | 🐛 3 | 🌐 JavaScript | 📅 2021-01-20 - A visual editor for RDF constraints currently supporting the visual notations ShapeUML and ShapeVOWL and import/export/validation of SHACL constraints.
 * [psps](https://github.com/factsmission/psps) ⭐ 19 | 🐛 4 | 🌐 Java | 📅 2023-09-18 - Personal Structured Publishing Space.
-* [qonsole](https://github.com/epimorphics/qonsole) ⭐ 17 | 🐛 22 | 🌐 JavaScript | 📅 2026-11-05 - A simple console for running SPARQL queries and displaying results.
+* [qonsole](https://github.com/epimorphics/qonsole) ⭐ 17 | 🐛 22 | 🌐 JavaScript | 📅 2026-11-06 - A simple console for running SPARQL queries and displaying results.
 * [sesame-vocab-builder](https://github.com/tkurz/sesame-vocab-builder) ⭐ 16 | 🐛 3 | 🌐 Java | 📅 2017-08-01 - Sesame Vocab Builder provides a command line tool that allows to create constants for RDF primitives for a given namespace out of RDF ontology files.
 * [keygenapp](https://github.com/bblfish/keygenapp) ⭐ 8 | 🐛 0 | 🌐 Java | 📅 2012-06-25 - Utilities and WebApp for certificate creation within a browser, for FOAF+SSL.
 * [LD-FusionTool](https://github.com/mifeet/LD-FusionTool) ⚠️ Archived - Data Fusion & Conflict Resolution tool for Linked Data.
@@ -1261,7 +1262,7 @@ OS - OpenSource
 * [MEL](https://w3id.org/kgcp/MEL-TNNT/) - (*Metadata Extractor & Loader*) - A tool to extract metadata (and textual content) from various file formats, as JSON objects.
 * [RDF Playground](https://rdfplayground.dcc.uchile.cl/) - Browser based aggregation of multiple semantic web tools, includes syntax validation, visualization, reasoner and shacl validation
 
-- [Qlue-ls](https://github.com/IoannisNezis/Qlue-ls) ⭐ 51 | 🐛 12 | 🌐 Rust | 📅 2026-10-29 - A powerfull SPARQL language server and formatter. Providing: auto-completion, hover-info, formatting, code-actions, diagnostics and more.
+- [Qlue-ls](https://github.com/IoannisNezis/Qlue-ls) ⭐ 51 | 🐛 11 | 🌐 Rust | 📅 2026-11-06 - A powerfull SPARQL language server and formatter. Providing: auto-completion, hover-info, formatting, code-actions, diagnostics and more.
 - [rdfless](https://github.com/larsw/rdfless/) ⭐ 8 | 🐛 2 | 🌐 Rust | 📅 2026-10-21 - A pager and pretty-printer for Turtle/TriG/N-triples and N-Quads written in Rust.
 - [Semantic Web LSP](https://github.com/ajuvercr/semantic-web-lsp) ⭐ 1 | 🐛 0 | 🌐 HTML | 📅 2025-09-23 - A language server for Semantic Web files, featuring SHACL shapes diagnostics, Turtle formatting, hover hints and descriptions, and completions for prefixes, properties, and classes.
 - [KGPrune](https://kgprune.loria.fr/) - An API and Web application for extracting subgraphs of interest from Wikidata based on user-input seed entities, to bootstrap new KGs or support knowledge extraction, or knowledge mining approaches
@@ -1287,7 +1288,7 @@ OS - OpenSource
 
 ## Machine Learning
 
-* [OntoGPT](https://github.com/monarch-initiative/ontogpt/) ⭐ 1,087 | 🐛 80 | 🌐 Jupyter Notebook | 📅 2026-09-10 - Tools for populating semantic schemas from unstructured text using Large Language Models (LLMs)
+* [OntoGPT](https://github.com/monarch-initiative/ontogpt/) ⭐ 1,088 | 🐛 80 | 🌐 Jupyter Notebook | 📅 2026-09-10 - Tools for populating semantic schemas from unstructured text using Large Language Models (LLMs)
 * [Duke](https://github.com/larsga/Duke) ⭐ 623 | 🐛 115 | 🌐 Java | 📅 2023-10-11 - Duke is a fast and flexible deduplication engine written in Java.
 * [FOX](https://github.com/AKSW/FOX) ⭐ 194 | 🐛 13 | 🌐 Java | 📅 2023-10-25 - Federated Knowledge Extraction Framework.
 * [LinkedPipes-ETL](https://github.com/linkedpipes/etl) ⭐ 162 | 🐛 200 | 🌐 Java | 📅 2026-10-28 - Linked Data ETL pipeline.
@@ -1335,7 +1336,7 @@ OS - OpenSource
 
 See <https://github.com/validatingrdf/validatingrdf.github.io/wiki/Updated-list-of-implementations> ⭐ 17 | 🐛 22 | 🌐 HTML | 📅 2018-01-10 and <https://github.com/w3c/shacl/issues/78> ⚠️ Archived for a more extensive list.
 
-* [pySHACL](https://github.com/RDFLib/pySHACL) ⭐ 370 | 🐛 51 | 🌐 Python | 📅 2026-10-28 - A Python validator for SHACL.
+* [pySHACL](https://github.com/RDFLib/pySHACL) ⭐ 371 | 🐛 51 | 🌐 Python | 📅 2026-10-28 - A Python validator for SHACL.
 * [TopQuadrant/shacl](https://github.com/TopQuadrant/shacl) ⭐ 247 | 🐛 17 | 🌐 Java | 📅 2026-06-30 - SHACL API in Java based on Apache Jena.
 * [RDFunit](https://github.com/AKSW/RDFUnit/) ⭐ 165 | 🐛 34 | 🌐 Java | 📅 2025-09-18
 * [labra/shaclex](https://github.com/labra/shaclex) ⭐ 92 | 🐛 258 | 🌐 Scala | 📅 2025-04-12
@@ -1382,23 +1383,23 @@ See <https://github.com/validatingrdf/validatingrdf.github.io/wiki/Updated-list-
 
 ## Other Awesome
 
-* [totogo/awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph) ⭐ 1,909 | 🐛 38 | 📅 2026-09-11
+* [totogo/awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph) ⭐ 1,910 | 🐛 40 | 📅 2026-09-11
 
 * [shaoxiongi/awesome-knowlege-graph](https://github.com/shaoxiongji/awesome-knowledge-graph) ⭐ 1,803 | 🐛 1 | 🌐 JavaScript | 📅 2022-10-07
 
-* [awesome-graph](https://github.com/jbmusso/awesome-graph) ⭐ 1,277 | 🐛 19 | 📅 2026-02-26
+* [awesome-graph](https://github.com/jbmusso/awesome-graph) ⭐ 1,277 | 🐛 20 | 📅 2026-02-26
 
 * [forgefed](https://github.com/forgefed/forgefed) ⭐ 1,037 | 🐛 13 | 🌐 Bikeshed | 📅 2026-05-03 - An extension to ActivityPub for web-based Git services federation.
 
-* [OWL-API](https://github.com/owlcs/owlapi) ⭐ 944 | 🐛 109 | 🌐 Java | 📅 2026-11-02 - The OWL API is a Java API for creating, manipulating and serialising OWL Ontologies.
+* [OWL-API](https://github.com/owlcs/owlapi) ⭐ 945 | 🐛 109 | 🌐 Java | 📅 2026-11-02 - The OWL API is a Java API for creating, manipulating and serialising OWL Ontologies.
 
-* [awesome-ontology](https://github.com/ozekik/awesome-ontology) ⭐ 737 | 🐛 2 | 📅 2026-10-12 - Similar to this list
+* [awesome-ontology](https://github.com/ozekik/awesome-ontology) ⭐ 740 | 🐛 2 | 📅 2026-10-12 - Similar to this list
 
 * [awesome-prolog](https://github.com/klaussinani/awesome-prolog) ⭐ 579 | 🐛 13 | 📅 2025-09-24
 
 * [jsonld-java](https://github.com/jsonld-java/jsonld-java) ⭐ 386 | 🐛 54 | 🌐 Java | 📅 2024-01-10 - JSON-LD implementation for Java.
 
-* [amazon-neptune-tools](https://github.com/awslabs/amazon-neptune-tools) ⭐ 315 | 🐛 9 | 🌐 Python | 📅 2026-10-29 - Tools and utilities to enable loading data and building graph applications with Amazon Neptune.
+* [amazon-neptune-tools](https://github.com/awslabs/amazon-neptune-tools) ⭐ 314 | 🐛 9 | 🌐 Python | 📅 2026-10-29 - Tools and utilities to enable loading data and building graph applications with Amazon Neptune.
 
 * [kbpedia](https://github.com/Cognonto/kbpedia) ⭐ 241 | 🐛 2 | 📅 2020-08-04 - KBPedia Knowledge Graph & Knowledge Ontology (KKO).
 
@@ -1428,7 +1429,7 @@ See <https://github.com/validatingrdf/validatingrdf.github.io/wiki/Updated-list-
 
 * [Awesome Knowledge Graph Construction Tools](https://github.com/kg-construct/awesome-kgc-tools) ⭐ 88 | 🐛 1 | 📅 2026-06-03
 
-* [umls2rdf](https://github.com/ncbo/umls2rdf) ⭐ 88 | 🐛 12 | 🌐 Python | 📅 2026-03-26 - These python scripts connect to the Unified Medical Language System (UMLS) database and translate the ontologies into RDF/OWL files. This is part of the BioPortal project.
+* [umls2rdf](https://github.com/ncbo/umls2rdf) ⭐ 88 | 🐛 13 | 🌐 Python | 📅 2026-11-07 - These python scripts connect to the Unified Medical Language System (UMLS) database and translate the ontologies into RDF/OWL files. This is part of the BioPortal project.
 
 * [ontmalizer](https://github.com/srdc/ontmalizer) ⭐ 85 | 🐛 12 | 🌐 Java | 📅 2021-09-20 - A tool that performs comprehensive transformations of XML Schemas (XSD) and XML data to RDF/OWL automatically
 
@@ -1472,7 +1473,7 @@ See <https://github.com/validatingrdf/validatingrdf.github.io/wiki/Updated-list-
 
 * [linked-csv](https://github.com/JeniT/linked-csv) ⭐ 34 | 🐛 4 | 🌐 XML | 📅 2013-04-19 - A souped-up CSV-based data format.
 
-* [nanopub-java](https://github.com/Nanopublication/nanopub-java) ⭐ 33 | 🐛 30 | 🌐 Java | 📅 2026-11-05
+* [nanopub-java](https://github.com/Nanopublication/nanopub-java) ⭐ 33 | 🐛 26 | 🌐 Java | 📅 2026-11-06
 
 * [genealogical-trees](https://github.com/blokhin/genealogical-trees) ⚠️ Archived - Semantic Web Exercise: Reasoning and Visualization of the Genealogical Ontologies.
 
@@ -1728,4 +1729,4 @@ To the extent possible under law, [Zachary Whitley](https://github.com/zacharywh
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
